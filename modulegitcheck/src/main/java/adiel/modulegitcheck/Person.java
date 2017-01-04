@@ -5,4 +5,7 @@ package adiel.modulegitcheck;
  */
 
 public class Person {
+    public Person(){
+
+    }
 }
