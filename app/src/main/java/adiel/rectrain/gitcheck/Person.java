@@ -5,4 +5,8 @@ package adiel.rectrain.gitcheck;
  */
 
 public class Person {
+
+    Person(){
+
+    }
 }
