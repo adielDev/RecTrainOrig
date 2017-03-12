@@ -6,6 +6,9 @@ package adiel.rectrain.gitcheck;
 
 public class Person {
 
+    String name;
+    int age;
+
     Person(){
 
     }
