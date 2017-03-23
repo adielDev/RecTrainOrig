@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <map linked="true">
+        <entry key="FilesActivity">adiel.rectrain.files.FilesActivity</entry>
+        <entry key="ActionModeEx">adiel.rectrain.action_mode.ActionModeEx</entry>
+        <entry key="CustomAlertDialog">adiel.rectrain.dialogs.CustomAlertDialog</entry>
+        <entry key="FontsActivty">adiel.rectrain.fonts.FontsActivty</entry>
+        <entry key="LifeCycleActivity">adiel.rectrain.lifecycle.LifeCycleActivity</entry>
+        <entry key="ServiceExampleOne">adiel.rectrain.services.ServiceExampleOne</entry>
+        <entry key="TimerActivity">adiel.rectrain.notcategorize.TimerActivity</entry>
+        <entry key="ShapeActivity">adiel.rectrain.shapes.ShapeActivity</entry>
+        <entry key="AnnotationActivity">adiel.rectrain.annotations.AnnotationActivity</entry>
+        <entry key="ParseTextActivity">adiel.rectrain.ui.ParseTextActivity</entry>
+        <entry key="ActivityA">adiel.rectrain.activities.ActivityA</entry>
+        <entry key="ProguardExAct">adiel.rectrain.proguardex.ProguardExAct</entry>
+        <entry key="CoashMarkActivity">adiel.rectrain.coachmark.CoashMarkActivity</entry>
+    </map>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlHighlight">@color/background_grey</item>
+
+
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="MyRealTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+
+      <!--  <item name="android:alertDialogTheme">@style/AlertDialogCustom</item>-->
+        <!-- <item name="android:windowActivityTransitions">true</item> -->
+        <!-- <item name="android:windowSharedElementEnterTransition">@transition/explore_to_userprofile</item> -->
+
+    </style>
+
+
+
+
+    <style name="AlertDialogCustom" parent="android:Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">#ffcb05</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="DARK_DIALOG_WHITE_ORANGE" parent="android:Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">#ffcb05</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+    <style name="FireDialog" parent="android:Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">#ffcb05</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

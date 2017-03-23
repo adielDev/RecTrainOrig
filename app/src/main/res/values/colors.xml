@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--main colors-->
+    <color name="main_black">#433e41</color>
+    <color name="main_orange">#ffcb05</color>
+    <color name="main_white">#FFFFFF</color>
+    <color name="main_light_grey">#c5c2be</color>
+
+
+    <!--text colors-->
+    <color name="text_light_grey">#c5c2be</color>
+    <color name="text_grey">#97948f</color>
+    <color name="text_black">#4b4a4b</color>
+    <color name="text_orange">#ffcb05</color>
+
+    <!--icon colors-->
+    <color name="icon_light_grey">#c5c2be</color>
+    <color name="icon_grey">#aca9a5</color>
+    <color name="icon_black">#4b4a4b</color>
+    <color name="icon_orange">#ffcb05</color>
+
+    <!--backround colors-->
+    <color name="background_light_grey">#faf9f6</color>
+    <color name="background_grey">#edebe6</color>
+    <color name="background_black">#433e41</color>
+    <color name="background_orange">#40ffcb05</color> <!--sammy added optional background, not in guidlines-->
+
+
+    <!--separator line-->
+    <color name="separator_grey">#e3e1df</color>
+
+    <!--navigation colors-->
+    <color name="recorded_color">#E6e76751</color>
+    <color name="to_trek_color">#800092cc</color>
+    <color name="in_trek_color">#403f3a</color>
+
+    <!--aditional util colors-->
+    <color name="main_orange_opacity_25">#40ffcb05</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <attr name="circleWidth" format="dimension"></attr>
+
+    <dimen name="ovalWidth" >@style/Base.TextAppearance.AppCompat.Display1</dimen>
+    <dimen name="ovalPadding" >50dp</dimen>
+
+</resources>

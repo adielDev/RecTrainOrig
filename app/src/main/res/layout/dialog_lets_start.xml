@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/background_black"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:visibility="gone"
+        android:background="@color/background_black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/settingsLinearLayout">
+        <TextView
+            android:textColor="@color/main_white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/location_not_available_please_enable_it"
+            android:id="@+id/textView4"
+            android:textSize="15sp"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cancel"
+                android:id="@+id/cancelTextView"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="@color/text_orange"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/settings"
+                android:id="@+id/settingsTextView"
+                android:textColor="@color/text_orange"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:padding="10dp"
+                android:layout_marginEnd="30dp"
+                android:layout_marginStart="45dp"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <RelativeLayout
+        android:background="@color/background_black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/waitLocationRelativeLayout"
+        android:layout_gravity="center_horizontal"
+        android:visibility="visible">
+        <TextView
+            android:textColor="@color/main_white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:padding="10dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/explainNavigationRecordTextView" />
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/waitLocationProgressBar"
+            android:layout_gravity="center_horizontal"
+            android:layout_below="@+id/explainNavigationRecordTextView"
+            android:indeterminateTint="@color/main_orange"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:textColor="@color/main_white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/waiting_for_location"
+            android:textSize="15sp"
+            android:padding="10dp"
+            android:id="@+id/waitingTextView"
+            android:layout_below="@+id/waitLocationProgressBar"
+            android:layout_centerHorizontal="true"  />
+        <LinearLayout
+            android:weightSum="2"
+            android:layout_centerHorizontal="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="10dp"
+            android:orientation="horizontal"
+            android:id="@+id/linearLayout3"
+            android:layout_below="@+id/waitingTextView"
+            android:layout_marginTop="22dp">
+
+            <TextView
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/cancel"
+                android:id="@+id/cancelLetsStartTextView"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:textSize="15sp"
+                android:textColor="@color/text_orange"/>
+
+            <TextView
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/lets_go"
+                android:id="@+id/letsGoTextView"
+                android:textColor="@color/text_grey"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:textSize="15sp"/>
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

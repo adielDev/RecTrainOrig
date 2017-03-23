@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="adiel.rectrain">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".dialogs.CustomAlertDialog" />
+        <activity android:name=".fonts.FontsActivty" />
+        <activity android:name=".action_mode.ActionModeEx" />
+        <activity android:name=".ninepathch.Activity9Patch" />
+        <activity android:name=".lifecycle.LifeCycleActivity" />
+        <activity android:name=".concurency.AsyncTaskEx" />
+        <activity android:name=".concurency.LooperHanderEx2" />
+        <activity android:name=".concurency.LooperHanderEx1" />
+        <activity android:name=".services.ServiceExampleOne" />
+
+        <service android:name=".services.GpsService" />
+        <service android:name=".services.GpsBoundService" />
+        <service android:name=".services.MyIntentService" />
+
+        <activity android:name=".fragments.FragActivity" />
+        <activity android:name=".notcategorize.TimerActivity" />
+        <activity android:name=".shapes.ShapeActivity" />
+        <activity android:name=".annotations.AnnotationActivity" />
+        <activity android:name=".ui.ParseTextActivity" />
+        <activity android:name=".activities.ActivityA" />
+        <activity android:name=".activities.ActivityB" />
+        <activity android:name=".activities.WebIntentActivity" />
+        <activity android:name=".proguardex.ProguardExAct" />
+        <activity android:name=".files.FilesActivity" />
+        <activity android:name=".coachmark.CoashMarkActivity"></activity>
+    </application>
+
+</manifest>

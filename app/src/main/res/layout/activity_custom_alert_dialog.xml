@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_custom_alert_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="adiel.rectrain.dialogs.CustomAlertDialog">
+
+    <Button
+        android:onClick="showDialog"
+        android:text="show fire dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        tools:layout_constraintTop_creator="1"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="40dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:onClick="showDialg2"
+        android:text="new dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        tools:layout_constraintTop_creator="1"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="157dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:text="show progrees dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnDFialog"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        android:layout_marginEnd="3dp"
+        app:layout_constraintRight_toRightOf="@+id/button2"
+        android:layout_marginTop="36dp"
+        app:layout_constraintTop_toBottomOf="@+id/button2" />
+
+    <Button
+        android:text="dialog 2 btns"
+        android:onClick="dialog2Btns"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        android:layout_marginEnd="32dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="40dp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:text="ripple"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button5"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        android:layout_marginEnd="51dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="68dp" />
+
+    <TextView
+        android:text="ripple"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginEnd="53dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="158dp" />
+
+    <Button
+        android:text="Progrees Dialog"
+        android:onClick="showProgressDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        android:layout_marginEnd="1dp"
+        app:layout_constraintRight_toRightOf="@+id/btnDFialog"
+        android:layout_marginTop="47dp"
+        app:layout_constraintTop_toBottomOf="@+id/btnDFialog" />
+
+    <Button
+        android:text="not edit dialog"
+        android:onClick="showSimplestDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button6"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="@+id/button3"
+        android:layout_marginBottom="48dp" />
+
+    <Button
+        android:text="NO ACTION Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button7"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginEnd="17dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="45dp" />
+
+    <Button
+        android:onClick="dismissFireDialog"
+        android:text="dismiss fire dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button8"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/button2"
+        android:layout_marginStart="7dp"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/button" />
+
+    <Button
+        android:text="check if fire is null"
+        android:onClick="checkIfFireIsNull"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button9"
+        tools:layout_constraintTop_creator="1"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="18dp"
+        app:layout_constraintTop_toBottomOf="@+id/button4"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="@+id/button4" />
+</android.support.constraint.ConstraintLayout>

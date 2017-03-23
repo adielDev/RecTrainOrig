@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DialogProgressStyle" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/main_orange</item>
+        <item name="colorButtonNormal">@color/main_orange</item>
+    </style>
+
+    <style name="MyDialogStyle" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+</resources>

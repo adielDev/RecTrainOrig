@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="dialogbackground">
+        <item name="android:background">@color/background_black</item>
+        <item name="android:padding">30dp</item>
+    </style>
+
+    <style name="dialogtextcolor">
+        <item name="android:layout_marginBottom">20dp</item>   <!--distance from buttons-->
+        <item name="android:textColor">@color/main_white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="dialogtextcolorofbutoons">
+        <item name="android:background">@drawable/dialog_action_button_selector</item>
+        <item name="android:textColor">@color/main_orange</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>

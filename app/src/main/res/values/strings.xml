@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mainlist">
+        <item>CoashMarkActivity</item>
+        <item>FilesActivity</item>
+        <item>ActionModeEx</item>
+        <item>CustomAlertDialog</item>
+        <item>FontsActivty</item>
+        <item>LifeCycleActivity</item>
+        <item>ServiceExampleOne</item>
+        <item>TimerActivity</item>
+        <item>ShapeActivity</item>
+        <item>AnnotationActivity</item>
+        <item>ParseTextActivity</item>
+        <item>ActivityA</item>
+        <item>ProguardExAct</item>
+    </string-array>
+
+    <string name="start_btn_label">Start Generation (main)</string>
+    <string name="start_btnbr_label">Start Generation (BroadcastReceiver)</string>
+    <string name="filling_buf">Filling the data buffer...</string>
+    <string name="done_fill">Done filling the data buffer.  Elapsed time: </string>
+    <string name="tag_track" translatable="false">tag_track</string>
+    <string name="tag_area" translatable="false">tag_area</string>
+    <string name="tag_site" translatable="false">tag_site</string>
+
+    <string name="app_name" translatable="false">WishTrip</string>
+    <string name="app_version" translatable="false">1.0.4</string>
+    <string name="hello_world">Hello world</string>
+    <string name="title_activity_filters">Filters</string>
+    <string name="km_away">km away</string>
+    <string name="km">km</string>
+    <string name="tracks">Treks</string>
+    <string name="privacy_public">Public</string>
+    <string name="privacy_private">Private</string>
+    <string name="toolbar_main_et_hint">Where do you want to travel?</string>
+    <string name="signup_already_have_an_account">Already have an account? <font color="#ffcb05">Sign In</font></string>
+    <string name="title_activity_activity_login">ActivityLogin</string>
+    <string name="title_activity_activity_user_profile">ActivityUserProfile</string>
+    <string name="title_activity_activity_search_results">ActivitySearchResults</string>
+    <string name="title_activity_activity_add_point">ActivityAddPoint</string>
+    <string name="title_activity_activity_save_track">ActivitySaveTrack</string>
+    <string name="title_activity_activity_track_details">ActivityTrackDetails</string>
+    <string name="facebook_app_id" translatable="false">495122000642590</string>
+    <string name="server_client_id" translatable="false">873074241365-s28v21d8qmm183tni9d9kd46m8uc6eoe.apps.googleusercontent.com</string>
+
+
+    <!---->
+
+    <string name="plan_record_navigate_share_your_trips_live">Plan, Record, Navigate and Share Your Trips Live</string>
+    <string name="explore_thousands_of_tracks">Explore thousands of treks</string>
+    <string name="record_your_trip_navigate_existing_tracks">Record your trip. Navigate existing treks</string>
+    <string name="share_your_track_live_with_friends">Share your track LIVE with friends</string>
+    <string name="skip">Skip</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="your_email">Your Email</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="connect_with">Connect with</string>
+    <string name="navigate">Navigate</string>
+    <string name="recent_searches">Recent searches</string>
+    <string name="results">Results</string>
+    <string name="explore">Explore</string>
+    <string name="popular_tracks_areas_in_your_vicinity">Popular tracks and areas in your vicinity</string>
+    <string name="where_do_you_want_to_travel">Where do you want to travel?</string>
+    <string name="filters">Filters</string>
+    <string name="urban">Urban</string>
+    <string name="nature">Nature</string>
+    <string name="travel_mode">Travel mode</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="easy_moderate_challenging">Easy, Moderate, Challenging</string>
+    <string name="length">Length</string>
+    <string name="duration">Duration</string>
+    <string name="pet_frinedly">Pet friendly</string>
+    <string name="not_disabled_friendly">Non-disabled friendly</string>
+    <string name="no_pets_allowed">No pets allowed</string>
+    <string name="download">Download</string>
+    <string name="add_to_wish_list">Add to Wishlist</string>
+    <string name="in_wish_list">in Wishlist</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="visited_this_area">Visited this area</string>
+    <string name="trip_journal">Trip Journal</string>
+    <string name="show_more">show more</string>
+    <string name="additional_tracks_in_this_area">Additional treks in this area</string>
+    <string name="description">Description</string>
+    <string name="your_wish_list">Your wish list</string>
+    <string name="start_recording">Start recording?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="attach_to_this_point">Attach to this point</string>
+    <string name="add_a_note">Add a note</string>
+    <string name="challenge">Challenge</string>
+    <string name="junction">Junction</string>
+    <string name="food">Food</string>
+    <string name="entertainment_centers">Entertainment centers</string>
+    <string name="boardwalk">Boardwalk</string>
+    <string name="fountain">Fountain</string>
+    <string name="metal_bars">Metal bars</string>
+    <string name="cliff">Cliff</string>
+    <string name="pit">Pit</string>
+    <string name="dry_waterfall">Dry Waterfall</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="t">T</string>
+    <string name="trail_junction">Trail Junction</string>
+    <string name="recycle_bin">Recycle bin</string>
+    <string name="park">Park</string>
+    <string name="with_electricity">With electricity</string>
+    <string name="with_water">With water</string>
+    <string name="water_and_electricity">Water and electricity</string>
+    <string name="youth_hostel">Youth Hostel</string>
+    <string name="camping">Camping</string>
+    <string name="hotel">Hotel</string>
+    <string name="guest_house">Guest House</string>
+    <string name="sunrise_lookout">Sunrise lookout</string>
+    <string name="sunset_lookout">Sunset lookout</string>
+    <string name="shaded_area">Shaded area</string>
+    <string name="bird_lookout">Bird lookout</string>
+    <string name="free_text">Free text</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="cafe">Cafe</string>
+    <string name="winery">Winery</string>
+    <string name="pub">Pub</string>
+    <string name="beer_brewery">Beer brewery</string>
+    <string name="food_quarter">Food quarter</string>
+    <string name="market">Market</string>
+    <string name="bus_station">Bus Station</string>
+    <string name="free_parking">Free parking</string>
+    <string name="taxi_station">Taxi Station</string>
+    <string name="train_station">Train Station</string>
+    <string name="atm">ATM</string>
+    <string name="camping_store">Camping store</string>
+    <string name="medical_services">Medical Services</string>
+    <string name="police">Police</string>
+    <string name="tourist_information">Tourist Information</string>
+    <string name="shopping_mall">Shopping Mall</string>
+    <string name="cinema">Cinema</string>
+    <string name="theater">Theater</string>
+    <string name="zoo">Zoo</string>
+    <string name="trips">Trips</string>
+    <string name="hours">Hours</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="no_tracks_saved_yet">No tracks saved yet</string>
+    <string name="start_recording_your_own_tracks">Start recording your own tracks</string>
+    <string name="points">points</string>
+    <string name="added">added</string>
+    <string name="alerts">Alerts</string>
+    <string name="chats">Chats</string>
+    <string name="no_chats_yet">No chats yet</string>
+    <string name="no_alerts_yet">No alerts yet</string>
+    <string name="more_info_optional">More info (optional)</string>
+    <string name="your_track_will_be_saved_into_your_profile_you_can_edit_your_track_at_any_time">Your trek will be saved into your profile. You can edit your trek at any time.</string>
+    <string name="track_name">Trek name</string>
+    <string name="privacy">Privacy</string>
+    <string name="track_info">Trek info</string>
+    <string name="track_media">Trek media</string>
+    <string name="public_">Public</string>
+    <string name="private_">Private</string>
+    <string name="share">Share</string>
+    <string name="profile">Profile</string>
+    <string name="or">or</string>
+    <string name="wishlist_is_empty">Wishlist is empty</string>
+    <string name="add_favorites_to_your_wishlist">Add favorite treks to your Wishlist</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="medium">Medium</string>
+    <string name="an_hour">An hour</string>
+    <string name="fil_accessibility">Accessibility</string>
+    <string name="fil_recommended_seasons">Recommended seasons</string>
+    <string name="disabled_friendly">Disabled friendly</string>
+    <string name="pet_friendly">Pet friendly</string>
+    <string name="parking_at_track_entrance">Parking at trek entrance</string>
+    <string name="winter">Winter</string>
+    <string name="summer">Summer</string>
+    <string name="autumn">Autumn</string>
+    <string name="spring">Spring</string>
+    <string name="recommended_seasons">Recommended seasons</string>
+    <string name="fil_transportation">Transportation</string>
+    <string name="public_transportation_to_starting_point">Public transportation to starting point</string>
+    <string name="public_transportation_from_end_point">Public transportation from end point</string>
+    <string name="fil_water">Water</string>
+    <string name="waterfall">Waterfall</string>
+    <string name="water_spring">Spring</string>
+    <string name="pool">Pool</string>
+    <string name="natural_pool">Natural Pool</string>
+    <string name="rappelling">Rappelling</string>
+    <string name="picnic_site">Picnic Site</string>
+    <string name="picnic_table">Picnic Table</string>
+    <string name="drinking_water">Drinking Water</string>
+    <string name="playground">Playground</string>
+    <string name="bbq">BBQ</string>
+    <string name="toilet">Toilet</string>
+    <string name="waste_disposal">Waste Disposal</string>
+    <string name="holy_site">Holy Site</string>
+    <string name="archaeological_site">Archaeological Site</string>
+    <string name="heritage_site">Heritage Site</string>
+    <string name="fil_attractions">Attraction</string>
+    <string name="fil_facilities">Facilities</string>
+    <string name="fil_site">Site</string>
+    <string name="fil_lodging_and_camping">Lodging and Camping</string>
+    <string name="points_of_interest">Points of interest</string>
+    <string name="fil_travel_services">Travel services</string>
+    <string name="camp_site">Camp Site</string>
+    <string name="zimmer">Zimmer</string>
+    <string name="motel">Motel</string>
+    <string name="hostel">Hostel</string>
+    <string name="observation_point">Observation Point</string>
+    <string name="bird_overlook">Bird Lookout Point</string>
+    <string name="information">Information</string>
+    <string name="medical">Medical</string>
+    <string name="fil_worth_a_break">Worth a break</string>
+    <string name="m">m</string>
+    <string name="away">away</string>
+    <string name="ft">ft</string>
+    <string name="mi">mi</string>
+    <string name="searching">Searching&#8230;</string>
+    <string name="one_result">One result</string>
+    <string name="more">More</string>
+    <string name="you_can_change_your_badge_by_editing_your_profile">You can change your badge by editing your profile</string>
+    <string name="your_profile_has_been_updated">Your profile has been updated</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="map_view">Map view</string>
+    <string name="start_chat">Start chat</string>
+    <string name="go_to_profile">Go to profile</string>
+    <string name="no_gps_showing_approximate_location">No GPS, showing approximate location</string>
+    <string name="traveled">Traveled</string>
+    <string name="chat_with_live_viewers">Chat with live viewers</string>
+    <string name="live_share">Live share</string>
+    <string name="start">Start</string>
+    <string name="do_you_want_to_start_recording_your_trip">Do you want to start recording your trip?</string>
+    <string name="stop_and_finish">Stop &amp; finish</string>
+    <string name="pause">Pause</string>
+    <string name="do_you_want_to_stop_recording_your_trip">Do you want to stop recording your trip?</string>
+    <string name="searching_for_gps">Searching for GPS&#8230;</string>
+    <string name="resume">Resume</string>
+    <string name="you_didnt_finish_your_last_trek_resume">You didn\'t finish your last trek, resume?</string>
+    <string name="try_again">Try again</string>
+    <string name="failed_to_connect_live_broadcast_try_again">Failed to connect live broadcast, try again?</string>
+    <string name="hiker">Hiker</string>
+    <string name="traveler">Traveler</string>
+    <string name="extremist">Extremist</string>
+    <string name="reconnecting_live_broadcast">Reconnecting live broadcast&#8230;</string>
+    <string name="gps_lost">GPS lost</string>
+    <string name="i_am_traveling_with_wishtrip_check_out_my_live_broadcast">I am traveling with WishTrip, check out my live broadcast</string>
+    <string name="connecting">Connecting&#8230;</string>
+    <string name="take_video">Take video</string>
+    <string name="take_photo">Take photo</string>
+    <string name="say_something_about_this_place">Write something about this place</string>
+    <string name="mark_this_point">Mark this point</string>
+    <string name="choose_from_gallery">Choose from gallery</string>
+    <string name="poi_water">Water</string>
+    <string name="poi_challenge">Challenge</string>
+    <string name="poi_junction">Junction</string>
+    <string name="poi_facilities">Facilities</string>
+    <string name="poi_historic_site_or_religious">Historic or religious site</string>
+    <string name="poi_lodging">Lodging &amp; Camping</string>
+    <string name="poi_worth_a_break">Worth a break</string>
+    <string name="poi_food">Food</string>
+    <string name="poi_transportation">Transportation</string>
+    <string name="poi_travel_services">Travel services</string>
+    <string name="poi_entertainment_centers">Entertainment centers</string>
+    <string name="poi_boardwalk">Boardwalk</string>
+    <string name="edit_track">Edit trek</string>
+    <string name="trek_poi_water">Water</string>
+    <string name="trek_poi_challenge">Challenge</string>
+    <string name="trek_poi_facilities">Facilities</string>
+    <string name="trek_poi_historic_site_or_religious">Historic or religious site</string>
+    <string name="trek_poi_lodging">Lodging &amp; Camping</string>
+    <string name="trek_poi_worth_a_break">Worth a break</string>
+    <string name="trek_poi_transportation">Transportation</string>
+    <string name="trek_poi_travel_services">Travel services</string>
+    <string name="trek_poi_season">Recommended Season</string>
+    <string name="trek_poi_accessibility">Accessibility</string>
+    <string name="trek_poi_disabled_accessibility">Accessibility for the disabled</string>
+    <string name="trek_poi_pet_accessibility">Pet accessibility</string>
+    <string name="subb_poi_camping">Camping</string>
+
+    <string name="forget_password_succsess">A reset email was sent successfully to your email</string>
+    <string name="forget_password_failed">Failed to send reset email</string>
+    <string name="please_insert_your_email">Please insert your   email</string>
+    <string name="i_agree_to_trem_of_service"><![CDATA[I accept to the <b><font color=\'#ffcb05\'>terms of service</font></b>]]></string>
+    <string name="dont_have_an_account_sign_in"><![CDATA[Don\'t have an account? <font color=\'#ffcb05\'>Sign Up</font>]]></string>
+    <string name="sharing_live">Sharing live</string>
+    <string name="map">Map</string>
+    <string name="save_trek">Save Trek</string>
+    <string name="already_have_an_account_login_in"><![CDATA[Already have an account? <font color=\'#ffcb05\'>Log In</font>]]></string>
+    <string name="minus_less">- Less</string>
+    <string name="plus_more">+ More</string>
+    <string name="treker">Trekker</string>
+    <string name="todey">Today</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="settings">Settings</string>
+    <string name="edit">Edit</string>
+    <string name="what_describe_you_best">What describes you best?</string>
+    <string name="km_point">Km.</string>
+    <string name="wishtrip">WishTrip</string>
+    <string name="category">Category</string>
+    <string name="poi">poi</string>
+    <string name="load_earlier_messages">LOAD EARLIER MESSAGES</string>
+    <string name="public_q">Public</string>
+    <string name="new_chat">New Chat</string>
+    <string name="tag">Tag</string>
+    <string name="general">General</string>
+    <string name="start_new_chat">Start new chat</string>
+    <string name="error">Error</string>
+    <string name="area_name">Area Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="units">Units</string>
+    <string name="location_premision_explaine"><![CDATA[Your location is used for getting suggested treks nearby & recording your own trips and more.]]></string>
+    <string name="keep_screen_on_while_recording">Keep screen on while recording</string>
+    <string name="write_a_message">Write a message&#8230;</string>
+    <string name="available_offline">Available offline</string>
+    <string name="storage_premission_explaine">Storage access will be used for saving data created by WishTrip</string>
+    <string name="request_allow_permission_">Please allow access to these features, otherwise the app will not function correctly.</string>
+    <string name="trek_photos_videos_audios">Trek photos, videos, audios</string>
+    <string name="description_hint">Write something about this trek&#8230;</string>
+    <string name="default_trek_privacy">Default trek privacy</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="photos_videos"><![CDATA[Photos & Videos]]></string>
+    <string name="default_media_privacy">Default media privacy</string>
+    <string name="navigation_to_enterace">Navigate to entrance</string>
+    <string name="audio">Audio</string>
+    <string name="show_other_users_on_map">Show other users on map</string>
+    <string name="info">Info</string>
+    <string name="share_my_location">Others can see me on the map</string>
+    <string name="get_notification_for">Get notifications for:</string>
+    <string name="delete_trek">Delete Trek</string>
+    <string name="new_messages">New messages</string>
+    <string name="sign_out">Sign out</string>
+    <string name="attractions_in_area">Attractions in the area</string>
+    <string name="sponsered_ad_title">Sponsored Ad Title</string>
+    <string name="mi_point">Mi.</string>
+    <string name="elpased_time_arriveal">ETA %d Minutes</string>
+    <string name="allow_microphone_permission">Allow the microphone permission</string>
+    <string name="no_premission_warning">You will not be able to add audio recordings</string>
+    <string name="please_agree_to_the_terms_of_service">Please agree to the terms of service</string>
+    <string name="please_allow">Please allow</string>
+    <string name="sign_in_to_navigate">Sign in to navigate</string>
+    <string name="finish_recording_your_trek_before_sign_out">Finish recording your trek before signing out</string>
+    <string name="downloaded_trek_deleted">Downloaded trek deleted</string>
+    <string name="sign_in_to_add_to_wishlist">Sign in to add to wishlist</string>
+    <string name="sign_in_to_download">Sign in to download</string>
+    <string name="trek_downloaded_successfully">The trek has been successfully downloaded</string>
+    <string name="sign_in_falied">Sign-in failed</string>
+    <string name="connection_falied">Connection failed</string>
+    <string name="sign_in_to_chat">Sign in to chat</string>
+    <string name="profile_picture_updated">Profile picture updated</string>
+    <string name="recording_will_start_soon">Recording will start as soon as the GPS is acquired</string>
+    <string name="sign_in_to_record">Sign in to record</string>
+    <string name="out_of_trek">Out of trek</string>
+    <string name="you_have_reached_your_destination">You have reached your destination!</string>
+    <string name="registration_error">Registration error</string>
+    <string name="navigation_not_available">Available in a few days</string>
+    <string name="failed_to_send_message">failed to send message</string>
+    <string name="trek_deleted">Trek deleted</string>
+    <string name="location_not_available">Location is not available</string>
+    <string name="error_playing_movie">Error playing movie</string>
+    <string name="no_gps">No GPS</string>
+    <string name="cant_start_no_gps">Couldn\'t start recording, please check if your GPS is on</string>
+    <string name="cant_stop_recording">Couldn\'t stop recording</string>
+    <string name="cant_pause_recording">Couldn\'t pause recording</string>
+    <string name="failed">Failed</string>
+    <string name="bus_station_at_beginning">bus station at beginning</string>
+    <string name="bus_station_at_end">bus station at end</string>
+    <string name="parking">parking</string>
+    <string name="access_for_disabled">access for disabled</string>
+    <string name="no_access_for_disabled">no access for disabled</string>
+    <string name="access_for_animals">access for animals</string>
+    <string name="no_access_for_animals">no access for animals</string>
+    <string name="search_error">search error</string>
+    <string name="ok">ok</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to exit?</string>
+    <!--sammy added check with betzalel-->
+    <string name="general_information">General Information</string>
+    <string name="delete_site">Delete Site</string>
+    <string name="downloaded_site_deleted">Downloaded site deleted</string>
+    <string name="site_deleted">Site deleted</string>
+    <string name="navigation_to_site">Navigate to Site</string>
+    <string name="site_of_interest">Sites of interest</string>
+    <string name="navigate_to_soi">Take me there</string>
+    <string name="load_more">Load More</string>
+    <string name="soi_ahead">Site of interest ahead</string>
+    <string name="treks_in_this_site">Treks in this Site</string>
+    <string name="rate_site">Rate the Site</string>
+    <string name="rate_app">Rate the App</string>
+    <string name="submit">Submit</string>
+    <string name="discard">Cancel</string>
+    <string name="go_to_site_page_in_app">To the Site\'s page\nin the App</string>
+    <string name="details">details</string>
+    <string name="start_travell">start travel</string>
+    <string name="location_not_available_please_enable_it">Location not available please\nenable it.</string>
+    <string name="waiting_for_location">Waiting for location</string>
+    <string name="site_downloaded_successfully">The Site has been successfully downloaded</string>
+    <string name="stop">Stop sharing</string>
+    <string name="opening_hours_not_avalible_offline">Not available offline, please see site opening hours</string>
+    <string name="round_trip">Round trip</string>
+    <string name="not_round_trip">Not a round trip</string>
+    <string name="trek_poi_general_information">General information</string>
+    <string name="saving_changes">Saving changes&#8230;</string>
+    <string name="changes_saved">Changes saved</string>
+    <string name="deleting">Deleting&#8230;</string>
+    <string name="wait_for_download_to_finish">Wait for download to finish</string>
+    <string name="data_usage">Data usage</string>
+    <string name="sync_only_when_wifi_enabled">Sync only when wifi enabled</string>
+    <string name="sync_always">Sync always</string>
+    <string name="follow_arrows_instruction">Follow the arrows to the starting point</string>
+    <string name="reached_beginning_instruction">You have reached the beginning of the trek.  WishTrip will continue to help you navigate throughout the trek.</string>
+    <string name="reached_end_instruction">That\'s it, you have completed the trek!  We hope you enjoyed it.</string>
+    <string name="there_is_instruction">there </string>
+    <string name="pay_attention_instruction">Please note,</string>
+    <string name="will_have_video">Will I have a video from the trip?!</string>
+    <string name="video_hint"><![CDATA[Add photos and information to your trek and WishTrip will create a video of your trip experience!
+        \nWhen clicking the <b><font color=\'#ffcb05\'>+</font></b> button, you can take photos, videos, add text and points of interest.
+        \nKeep following the Progress Bar to find out if you have added enough photos and info so we can create a video for you.
+        \nThe mark isn\'t progressing?
+        \nContinue your trek, stop at interesting places and take photos!
+        \nThe more photos and info you add, the richer and more interesting your video will be!]]></string>
+
+    <string name="poi_water_by_id">Water</string>
+    <string name="poi_challenge_by_id">Challenge</string>
+    <string name="poi_junction_by_id">Junction</string>
+    <string name="poi_facilities_by_id">Facilities</string>
+    <string name="poi_historic_site_or_religious_by_id">Historic or Religious Site</string>
+    <string name="poi_lodging_by_id">Lodging &amp; Camping</string>
+    <string name="poi_worth_a_break_by_id">Worth a Break</string>
+    <string name="poi_food_by_id">Food</string>
+    <string name="poi_transportation_by_id">Transportation</string>
+    <string name="poi_travel_services_by_id">Travel Services</string>
+    <string name="poi_entertainment_centers_by_id">Entertainment Centers</string>
+    <string name="poi_boardwalk_by_id">Boardwalk</string>
+    <string name="subb_poi_camping_by_id">Camping</string>
+
+
+    <string name="please_rate_us">If you like WishTrip, please rate it 5 stars in the Google Play Store, greatly appreciated!</string>
+    <string name="rate_wishtrip">RATE WishTrip</string>
+    <string name="lets_go">Let\'s start</string>
+    <string name="explain_navigation_recording">We will guide you to the beginning of the trek.
+        \nWhile navigating, you can add photos and information to the trek.
+        \nYou can also share your trip live with your friends.
+        \nWhen you finish your trip, you can see the trek on your personal profile page.</string>
+    <string name="explain_recording">While recording, you can add photos and information to the trek.
+        \nYou can also share your trip live with your friends.
+        \nWhen you finish your trip, you can see the trek on your personal profile page</string>
+    <string name="error_changing_privacy">Error saving privacy</string>
+    <string name="privacy_changed_message_private">Trek is now Private</string>
+    <string name="privacy_changed_message_public">Trek is now Public</string>
+    <string name="privacy_changed_message_private_media">Trek media is now Private</string>
+    <string name="unknown">Unknown</string>
+    <string name="are_you_sure_you_want_to_delete_trek">Are you sure to want to delete this trek?</string>
+    <string name="your_movie_is_ready">Your movie is ready!</string>
+    <string name="click_to_watch_it">Click to watch it</string>
+    <string name="checkin_for_route_instructions">"Checking for route instructions "</string>
+    <string name="failed_to_load_route_instructions">Failed to load route instructions</string>
+    <string name="navigate_to_site_entrance">Navigate to site entrance</string>
+    <string name="about">About</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_recording">Stop navigating before you start a new one</string>
+    <string name="stop_navigating">Stop Navigating</string>
+    <string name="out_of_trek_trek_navigation">You have left the trek path, instructions will continue once you have returned</string>
+    <string name="click_to_view_tutorials">Click to view tutorials</string>
+    <string name="dialog_fire_missiles">dialog_fire_missiles</string>
+    <string name="fire">fire</string>
+    <string name="stam">hello + nice</string>
+    <string name="p">+</string>
+    <string name="replace_with_message">replace with message</string>
+    <string name="maybe">maybe</string>
+    <string name="special_char">isn\'t</string>
+
+</resources>

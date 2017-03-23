@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyRealTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+
+        <item name="colorControlHighlight">@color/recorded_color</item>
+
+    <!-- Dialog attributes -->
+    <item name="dialogTheme">@style/MyNiceDialogTheme</item>
+    <item name="dialogPreferredPadding">24dp</item>
+
+    <item name="alertDialogTheme">@style/MyNiceDialogTheme</item>
+    <item name="alertDialogStyle">@style/MyNiceDialogTheme</item>
+    <item name="alertDialogCenterButtons">false</item>
+
+
+    <!--<item name="textColorAlertDialogListItem">@color/abc_primary_text_material_light</item>-->
+    <item name="textColorAlertDialogListItem">@color/main_orange</item>
+    <item name="listDividerAlertDialog">@null</item>
+
+        <item name="android:textColorPrimary">@android:color/holo_red_dark</item>
+        <item name="android:textColorPrimaryInverse">@android:color/holo_red_dark</item>
+        <item name="android:textColorSecondary">@android:color/holo_red_dark</item>
+        <item name="android:textColorSecondaryInverse">@android:color/holo_red_dark</item>
+        <item name="android:textColorTertiary">@android:color/holo_red_dark</item>
+        <item name="android:textColorTertiaryInverse">@android:color/holo_red_dark</item>
+        <item name="android:textColorPrimaryDisableOnly">@android:color/holo_red_dark</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@android:color/holo_red_dark</item>
+        <item name="android:textColorHint">@android:color/holo_red_dark</item>
+        <item name="android:textColorHintInverse">@android:color/holo_red_dark</item>
+        <item name="android:textColorHighlight">@android:color/holo_red_dark</item>
+        <item name="android:textColorLink">?attr/colorAccent</item>
+    </style>
+
+    <style name="MyNiceDialogTheme" >
+        <item name="android:colorBackground">@android:color/holo_red_dark</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowTitleStyle">@style/RtlOverlay.DialogWindowTitle.AppCompat</item>
+        <item name="android:windowTitleBackgroundStyle">@style/Base.DialogWindowTitleBackground.AppCompat</item>
+        <item name="android:windowBackground">@drawable/abc_dialog_material_background_dark</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/Animation.AppCompat.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+
+        <item name="listPreferredItemPaddingLeft">24dip</item>
+        <item name="listPreferredItemPaddingRight">24dip</item>
+
+        <item name="android:listDivider">@null</item>
+    </style>
+
+</resources>
