@@ -51,7 +51,18 @@ public class FontsActivty extends AppCompatActivity {
         TextView tvVideoHint = (TextView) findViewById(R.id.tvVideoHint);
         Spanned spanned = Html.fromHtml(getString(R.string.video_hint));
         tvVideoHint.setText(spanned.toString());
+        customFont();
 
+    }
+
+    private void customFont() {
+        TextView customFont = (TextView) findViewById(R.id.customFont);
+        TextView customFontHeb = (TextView) findViewById(R.id.customFontHeb);
+
+        Typeface typeface = Typeface.createFromAsset(getAssets(),"Alef-Bold.ttf");
+
+        customFont.setTypeface(typeface);
+        customFontHeb.setTypeface(typeface);
     }
 
     private void getTextSize() {

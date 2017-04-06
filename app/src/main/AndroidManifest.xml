@@ -42,8 +42,9 @@
         <activity android:name=".activities.ActivityB" />
         <activity android:name=".activities.WebIntentActivity" />
         <activity android:name=".proguardex.ProguardExAct" />
-        <activity android:name=".files.FilesActivity" />
-        <activity android:name=".coachmark.CoashMarkActivity"></activity>
+        <activity android:name=".coachmarks.CoachMarksActivity" />
+        <activity android:name=".dialogs.PopupWindowAct" />
+        <activity android:name=".listviews.ListViewActivity"></activity>
     </application>
 
 </manifest>

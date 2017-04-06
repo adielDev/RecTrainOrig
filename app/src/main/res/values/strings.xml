@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mainlist">
-        <item>CoashMarkActivity</item>
+        <item>ListViewActivity</item>
+        <item>PopupWindowAct</item>
+        <item>CoachMarksActivity</item>
         <item>FilesActivity</item>
         <item>ActionModeEx</item>
         <item>CustomAlertDialog</item>
