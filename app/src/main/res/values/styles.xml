@@ -21,6 +21,9 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="MyRealTheme">
+        <!--<item name="android:background">@drawable/mybackground</item>-->
+        <!--<item name="android:selectable">@drawable/mybackground</item>-->
+        <item name="colorPrimary">@color/background_orange</item>
         <!-- Customize your theme here. -->
        <!-- <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>

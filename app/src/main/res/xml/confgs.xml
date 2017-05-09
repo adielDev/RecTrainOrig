@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
     <map linked="true">
+        <entry key="SmsReceiverACT">adiel.rectrain.receievers.SmsReceiverACT</entry>
         <entry key="ListViewActivity">adiel.rectrain.listviews.ListViewActivity</entry>
         <entry key="FilesActivity">adiel.rectrain.files.FilesActivity</entry>
         <entry key="ActionModeEx">adiel.rectrain.action_mode.ActionModeEx</entry>

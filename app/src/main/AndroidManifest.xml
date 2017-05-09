@@ -44,7 +44,8 @@
         <activity android:name=".proguardex.ProguardExAct" />
         <activity android:name=".coachmarks.CoachMarksActivity" />
         <activity android:name=".dialogs.PopupWindowAct" />
-        <activity android:name=".listviews.ListViewActivity"></activity>
+        <activity android:name=".listviews.ListViewActivity" />
+        <activity android:name=".receievers.SmsReceiverACT"></activity>
     </application>
 
 </manifest>

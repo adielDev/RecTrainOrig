@@ -17,6 +17,7 @@ public class ActivityA extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_activity);
+        Log.d("adiel","A onCreate");
     }
 
     public void startActivityB(View view) {
@@ -24,9 +25,21 @@ public class ActivityA extends AppCompatActivity {
         startActivityForResult(intent,REQUEST_OPEN_B);
     }
 
+    public void startActivityBSecondly(View view) {
+        startActivityB(view);
+        Intent intent = getIntent();
+        String fromB = intent.getStringExtra(ActivityB.DATA_FROM_B);
+        if(fromB!=null){
+            Log.d("adiel","fromB:"+fromB);
+        }else {
+            Log.d("adiel","fromB is null");
+        }
+    }
+
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
+        Log.d("adiel","A onActivityResult");
         switch (requestCode){
 
             case REQUEST_OPEN_B:
@@ -42,5 +55,40 @@ public class ActivityA extends AppCompatActivity {
                 break;
 
         }
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Log.d("adiel","A onResume");
+        Intent intent = getIntent();
+        String fromB = intent.getStringExtra(ActivityB.DATA_FROM_B);
+        if(fromB!=null){
+            Log.d("adiel","fromB:"+fromB);
+        }else {
+            Log.d("adiel","fromB is null");
+        }
+    }
+
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        Log.d("adiel","A onPause");
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Log.d("adiel","A onDestroy");
+
+
+    }
+
+
+    @Override
+    protected void onNewIntent(Intent intent) {
+        super.onNewIntent(intent);
+        Log.d("adiel","A onNewIntent");
     }
 }
