@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mainlist">
+        <item>SysConfgsAct</item>
         <item>SmsReceiverACT</item>
         <item>ListViewActivity</item>
         <item>PopupWindowAct</item>
@@ -27,7 +28,7 @@
     <string name="tag_area" translatable="false">tag_area</string>
     <string name="tag_site" translatable="false">tag_site</string>
 
-    <string name="app_name" translatable="false">WishTrip</string>
+    <string name="app_name" translatable="false">rec train</string>
     <string name="app_version" translatable="false">1.0.4</string>
     <string name="hello_world">Hello world</string>
     <string name="title_activity_filters">Filters</string>

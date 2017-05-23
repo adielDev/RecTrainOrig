@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Debug.startMethodTracing("nyTrace");
         setContentView(R.layout.activity_main);
 
         ListView lv = (ListView) findViewById(R.id.lv);
@@ -130,7 +129,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onDestroy() {
         Log.d("adiel","MainActivity:onDestroy");
-        Debug.stopMethodTracing();
         super.onDestroy();
     }
 
