@@ -59,7 +59,11 @@
         </receiver>
 
         <activity android:name=".sysconfgs.SysConfgsAct" />
-        <activity android:name=".toolbar.ToolBarActivity" android:theme="@style/AutoCompleteTheme"></activity>
+        <activity
+            android:name=".toolbar.ToolBarActivity"
+            android:theme="@style/AutoCompleteTheme" />
+        <activity android:name=".toolbar.SearchViewWebExample"
+            android:theme="@style/AutoCompleteTheme"></activity>
     </application>
 
 </manifest>
