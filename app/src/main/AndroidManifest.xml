@@ -58,7 +58,8 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name=".sysconfgs.SysConfgsAct"></activity>
+        <activity android:name=".sysconfgs.SysConfgsAct" />
+        <activity android:name=".toolbar.ToolBarActivity" android:theme="@style/AutoCompleteTheme"></activity>
     </application>
 
 </manifest>

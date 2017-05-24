@@ -1,1 +1,1 @@
-include ':app', ':modulegitcheck', ':moregitcheck'
+include ':app', ':modulegitcheck', ':moregitcheck', ':osmlib'
