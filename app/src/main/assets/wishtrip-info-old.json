@@ -1,0 +1,3297 @@
+{
+  "poi_info": [
+    {
+      "id": 900900000120001,
+      "name": {
+        "en": "Waterfall",
+        "he": "מפל"
+      },
+      "category_id": "900900000130001",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Waterfall"
+          ,
+            "he": "מפל"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00001_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00001_gray.png"
+        ,
+          "orange": "poi_00001_orange.png"
+        ,
+          "bubble": "poi_00001_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120002,
+      "name": {
+        "en": "Spring",
+        "he": "מעיין"
+      },
+      "category_id": "900900000130001",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Spring"
+          ,
+            "he": "מעיין"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00002_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00002_gray.png"
+        ,
+          "orange": "poi_00002_orange.png"
+        ,
+          "bubble": "poi_00002_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120003,
+      "name": {
+        "en": "Pool",
+        "he": "בריכה"
+      },
+      "category_id": "900900000130001",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Pool"
+          ,
+            "he": "בריכה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00003_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00003_gray.png"
+        ,
+          "orange": "poi_00003_orange.png"
+        ,
+          "bubble": "poi_00003_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120004,
+      "name": {
+        "en": "Fountain",
+        "he": "מזרקה"
+      },
+      "category_id": "900900000130001",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Fountain"
+          ,
+            "he": "מזרקה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00004_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00004_gray.png"
+        ,
+          "orange": "poi_00004_orange.png"
+        ,
+          "bubble": "poi_00004_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120005,
+      "name": {
+        "en": "Natural Pool",
+        "he": "בריכה טבעית"
+      },
+      "category_id": "900900000130001",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Natural Pool"
+          ,
+            "he": "בריכה טבעית"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00003_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00003_gray.png"
+        ,
+          "orange": "poi_00003_orange.png"
+        ,
+          "bubble": "poi_00003_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120006,
+      "name": {
+        "en": "Stream",
+        "he": "נחל"
+      },
+      "category_id": "900900000130001",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Stream"
+          ,
+            "he": "נחל"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00002_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00002_gray.png"
+        ,
+          "orange": "poi_00002_orange.png"
+        ,
+          "bubble": "poi_00002_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120021,
+      "name": {
+        "en": "Metal Bars",
+        "he": "יתדות ברזל"
+      },
+      "category_id": "900900000130002",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "are Metal Bars"
+          ,
+            "he": "יתדות ברזל"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00005_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00005_gray.png"
+        ,
+          "orange": "poi_00005_orange.png"
+        ,
+          "bubble": "poi_00005_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120022,
+      "name": {
+        "en": "Cliff",
+        "he": "צוק"
+      },
+      "category_id": "900900000130002",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Cliff"
+          ,
+            "he": "צוק"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00006_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00006_gray.png"
+        ,
+          "orange": "poi_00006_orange.png"
+        ,
+          "bubble": "poi_00006_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120023,
+      "name": {
+        "en": "Rappelling",
+        "he": "סנפלינג"
+      },
+      "category_id": "900900000130002",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is Rappelling"
+          ,
+            "he": "סנפלינג"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00007_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00007_gray.png"
+        ,
+          "orange": "poi_00007_orange.png"
+        ,
+          "bubble": "poi_00007_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120024,
+      "name": {
+        "en": "Pit",
+        "he": "בור"
+      },
+      "category_id": "900900000130002",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Pit"
+          ,
+            "he": "בור"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00008_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00008_gray.png"
+        ,
+          "orange": "poi_00008_orange.png"
+        ,
+          "bubble": "poi_00008_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120025,
+      "name": {
+        "en": "Dry Waterfall",
+        "he": "מפל יבש"
+      },
+      "category_id": "900900000130002",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Dry Waterfall"
+          ,
+            "he": "מפל יבש"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00009_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00009_gray.png"
+        ,
+          "orange": "poi_00009_orange.png"
+        ,
+          "bubble": "poi_00009_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120041,
+      "name": {
+        "en": "Right Turn",
+        "he": "פניה ימינה"
+      },
+      "category_id": "900900000130003",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Right Turn"
+          ,
+            "he": "פניה ימינה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00010_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00010_gray.png"
+        ,
+          "orange": "poi_00010_orange.png"
+        ,
+          "bubble": "poi_00010_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120042,
+      "name": {
+        "en": "Left Turn",
+        "he": "פניה שמאלה"
+      },
+      "category_id": "900900000130003",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Left Turn"
+          ,
+            "he": "פניה שמאלה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00011_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00011_gray.png"
+        ,
+          "orange": "poi_00011_orange.png"
+        ,
+          "bubble": "poi_00011_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120043,
+      "name": {
+        "en": "T Junction",
+        "he": "צומת T"
+      },
+      "category_id": "900900000130003",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A T Junction"
+          ,
+            "he": "צומת T"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00012_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00012_gray.png"
+        ,
+          "orange": "poi_00012_orange.png"
+        ,
+          "bubble": "poi_00012_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120044,
+      "name": {
+        "en": "Trail Junction",
+        "he": "שושנת רוחות"
+      },
+      "category_id": "900900000130003",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Trail Junction"
+          ,
+            "he": "שושנת רוחות"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00013_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00013_gray.png"
+        ,
+          "orange": "poi_00013_orange.png"
+        ,
+          "bubble": "poi_00013_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120061,
+      "name": {
+        "en": "Picnic Table",
+        "he": "שולחן פיקניק"
+      },
+      "category_id": "900900000130004",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Picnic Table"
+          ,
+            "he": "שולחן פיקניק"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00014_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00014_gray.png"
+        ,
+          "orange": "poi_00014_orange.png"
+        ,
+          "bubble": "poi_00014_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120062,
+      "name": {
+        "en": "Drinking Water",
+        "he": "מי שתיה"
+      },
+      "category_id": "900900000130004",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is Drinking Water"
+          ,
+            "he": "מי שתיה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00015_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00015_gray.png"
+        ,
+          "orange": "poi_00015_orange.png"
+        ,
+          "bubble": "poi_00015_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120063,
+      "name": {
+        "en": "Playground",
+        "he": "מתקני שעשועים"
+      },
+      "category_id": "900900000130004",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Playground"
+          ,
+            "he": "מתקני שעשועים"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00016_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00016_gray.png"
+        ,
+          "orange": "poi_00016_orange.png"
+        ,
+          "bubble": "poi_00016_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120064,
+      "name": {
+        "en": "BBQ",
+        "he": "ברביקיו"
+      },
+      "category_id": "900900000130004",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Barbeque"
+          ,
+            "he": "ברביקיו"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00017_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00017_gray.png"
+        ,
+          "orange": "poi_00017_orange.png"
+        ,
+          "bubble": "poi_00017_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120065,
+      "name": {
+        "en": "Restrooms",
+        "he": "שירותים"
+      },
+      "category_id": "900900000130004",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "are Restrooms"
+          ,
+            "he": "שירותים"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00018_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00018_gray.png"
+        ,
+          "orange": "poi_00018_orange.png"
+        ,
+          "bubble": "poi_00018_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120066,
+      "name": {
+        "en": "Recycle Bin",
+        "he": "מתקן מיחזור"
+      },
+      "category_id": "900900000130004",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Recycle Bin"
+          ,
+            "he": "מתקן מיחזור"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00019_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00019_gray.png"
+        ,
+          "orange": "poi_00019_orange.png"
+        ,
+          "bubble": "poi_00019_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120067,
+      "name": {
+        "en": "Park",
+        "he": "פארק"
+      },
+      "category_id": "900900000130004",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Park"
+          ,
+            "he": "פארק"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00020_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00020_gray.png"
+        ,
+          "orange": "poi_00020_orange.png"
+        ,
+          "bubble": "poi_00020_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120081,
+      "name": {
+        "en": "Archaeological Site",
+        "he": "אתר ארכיאולוגי"
+      },
+      "category_id": "900900000130005",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is An Archaeological Site"
+          ,
+            "he": "אתר ארכיאולוגי"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00021_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00021_gray.png"
+        ,
+          "orange": "poi_00021_orange.png"
+        ,
+          "bubble": "poi_00021_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120082,
+      "name": {
+        "en": "Heritage Site",
+        "he": "אתר מורשת"
+      },
+      "category_id": "900900000130005",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Heritage Site"
+          ,
+            "he": "אתר מורשת"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00021_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00021_gray.png"
+        ,
+          "orange": "poi_00021_orange.png"
+        ,
+          "bubble": "poi_00021_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120083,
+      "name": {
+        "en": "Holy Site",
+        "he": "אתר קדוש"
+      },
+      "category_id": "900900000130005",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Holy Site"
+          ,
+            "he": "אתר קדוש"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00022_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00022_gray.png"
+        ,
+          "orange": "poi_00022_orange.png"
+        ,
+          "bubble": "poi_00022_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120107,
+      "name": {
+        "en": "Camping",
+        "he": "קמפינג"
+      },
+      "category_id": "900900000130006",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is Camping"
+          ,
+            "he": "קמפינג"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00023_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00023_gray.png"
+        ,
+          "orange": "poi_00023_orange.png"
+        ,
+          "bubble": "poi_00023_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120101,
+      "name": {
+        "en": "Camping With Electricity",
+        "he": "קמפינג עם חשמל"
+      },
+      "category_id": "900900000130006",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is Camping With Electricity"
+          ,
+            "he": "קמפינג עם חשמל"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00024_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00024_gray.png"
+        ,
+          "orange": "poi_00024_orange.png"
+        ,
+          "bubble": "poi_00024_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120102,
+      "name": {
+        "en": "Camping With Water",
+        "he": "קמפינג עם מים"
+      },
+      "category_id": "900900000130006",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is Camping With Water"
+          ,
+            "he": "קמפינג עם מים"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00025_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00025_gray.png"
+        ,
+          "orange": "poi_00025_orange.png"
+        ,
+          "bubble": "poi_00025_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120103,
+      "name": {
+        "en": "Camping With Water and Electricity",
+        "he": "קמפינג עם חשמל ומים"
+      },
+      "category_id": "900900000130006",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is Camping With Water and Electricity"
+          ,
+            "he": "קמפינג עם חשמל ומים"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00026_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00026_gray.png"
+        ,
+          "orange": "poi_00026_orange.png"
+        ,
+          "bubble": "poi_00026_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120104,
+      "name": {
+        "en": "Bungalow",
+        "he": "צימר"
+      },
+      "category_id": "900900000130006",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Bungalow"
+          ,
+            "he": "צימר"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00027_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00027_gray.png"
+        ,
+          "orange": "poi_00027_orange.png"
+        ,
+          "bubble": "poi_00027_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120105,
+      "name": {
+        "en": "Motel",
+        "he": "מוטל"
+      },
+      "category_id": "900900000130006",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Motel"
+          ,
+            "he": "מוטל"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00027_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00027_gray.png"
+        ,
+          "orange": "poi_00027_orange.png"
+        ,
+          "bubble": "poi_00027_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120106,
+      "name": {
+        "en": "Youth Hostel",
+        "he": "אכסניית נוער"
+      },
+      "category_id": "900900000130006",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Youth Hostel"
+          ,
+            "he": "אכסניית נוער"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00027_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00027_gray.png"
+        ,
+          "orange": "poi_00027_orange.png"
+        ,
+          "bubble": "poi_00027_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120108,
+      "name": {
+        "en": "Hotel",
+        "he": "מלון"
+      },
+      "category_id": "900900000130006",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Hotel"
+          ,
+            "he": "מלון"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00027_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00027_gray.png"
+        ,
+          "orange": "poi_00027_orange.png"
+        ,
+          "bubble": "poi_00027_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120109,
+      "name": {
+        "en": "Guest House",
+        "he": "בית הארחה"
+      },
+      "category_id": "900900000130006",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Guest House"
+          ,
+            "he": "בית הארחה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00027_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00027_gray.png"
+        ,
+          "orange": "poi_00027_orange.png"
+        ,
+          "bubble": "poi_00027_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120121,
+      "name": {
+        "en": "Observation Point",
+        "he": "נקודת תצפית"
+      },
+      "category_id": "900900000130007",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is An Observation Point"
+          ,
+            "he": "נקודת תצפית"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00028_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00028_gray.png"
+        ,
+          "orange": "poi_00028_orange.png"
+        ,
+          "bubble": "poi_00028_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120122,
+      "name": {
+        "en": "Sunrise Lookout",
+        "he": "תצפית זריחה"
+      },
+      "category_id": "900900000130007",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Sunrise Lookout"
+          ,
+            "he": "תצפית זריחה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00029_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00029_gray.png"
+        ,
+          "orange": "poi_00029_orange.png"
+        ,
+          "bubble": "poi_00029_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120123,
+      "name": {
+        "en": "Sunset Lookout",
+        "he": "תצפית שקיעה"
+      },
+      "category_id": "900900000130007",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Sunset Lookout"
+          ,
+            "he": "תצפית שקיעה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00030_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00030_gray.png"
+        ,
+          "orange": "poi_00030_orange.png"
+        ,
+          "bubble": "poi_00030_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120124,
+      "name": {
+        "en": "Shaded area",
+        "he": "נקודת צל"
+      },
+      "category_id": "900900000130007",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Shaded area"
+          ,
+            "he": "נקודת צל"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00031_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00031_gray.png"
+        ,
+          "orange": "poi_00031_orange.png"
+        ,
+          "bubble": "poi_00031_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120125,
+      "name": {
+        "en": "Bird Lookout",
+        "he": "מצפור"
+      },
+      "category_id": "900900000130007",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Bird Lookout"
+          ,
+            "he": "מצפור"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00032_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00032_gray.png"
+        ,
+          "orange": "poi_00032_orange.png"
+        ,
+          "bubble": "poi_00032_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120141,
+      "name": {
+        "en": "Restaurant",
+        "he": "מסעדה"
+      },
+      "category_id": "900900000130008",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Restaurant"
+          ,
+            "he": "מסעדה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00033_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00033_gray.png"
+        ,
+          "orange": "poi_00033_orange.png"
+        ,
+          "bubble": "poi_00033_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120142,
+      "name": {
+        "en": "Cafe",
+        "he": "בית קפה"
+      },
+      "category_id": "900900000130008",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Cafe"
+          ,
+            "he": "בית קפה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00034_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00034_gray.png"
+        ,
+          "orange": "poi_00034_orange.png"
+        ,
+          "bubble": "poi_00034_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120143,
+      "name": {
+        "en": "Winery",
+        "he": "יקב"
+      },
+      "category_id": "900900000130008",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Winery"
+          ,
+            "he": "יקב"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00035_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00035_gray.png"
+        ,
+          "orange": "poi_00035_orange.png"
+        ,
+          "bubble": "poi_00035_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120144,
+      "name": {
+        "en": "Pub",
+        "he": "פאב"
+      },
+      "category_id": "900900000130008",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Pub"
+          ,
+            "he": "פאב"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00036_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00036_gray.png"
+        ,
+          "orange": "poi_00036_orange.png"
+        ,
+          "bubble": "poi_00036_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120145,
+      "name": {
+        "en": "Beer Brewery",
+        "he": "מבשלת בירה"
+      },
+      "category_id": "900900000130008",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Beer Brewery"
+          ,
+            "he": "מבשלת בירה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00037_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00037_gray.png"
+        ,
+          "orange": "poi_00037_orange.png"
+        ,
+          "bubble": "poi_00037_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120146,
+      "name": {
+        "en": "Food quarter",
+        "he": "מתחם מזון"
+      },
+      "category_id": "900900000130008",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Food quarter"
+          ,
+            "he": "מתחם מזון"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00038_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00038_gray.png"
+        ,
+          "orange": "poi_00038_orange.png"
+        ,
+          "bubble": "poi_00038_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120147,
+      "name": {
+        "en": "Market",
+        "he": "שוק"
+      },
+      "category_id": "900900000130008",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Market"
+          ,
+            "he": "שוק"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00039_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00039_gray.png"
+        ,
+          "orange": "poi_00039_orange.png"
+        ,
+          "bubble": "poi_00039_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120161,
+      "name": {
+        "en": "Bus Station",
+        "he": "תחנת אוטובוס"
+      },
+      "category_id": "900900000130009",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Bus Station"
+          ,
+            "he": "תחנת אוטובוס"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00040_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00040_gray.png"
+        ,
+          "orange": "poi_00040_orange.png"
+        ,
+          "bubble": "poi_00040_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120162,
+      "name": {
+        "en": "Free Parking",
+        "he": "חניה חינם"
+      },
+      "category_id": "900900000130009",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is Free Parking"
+          ,
+            "he": "חניה חינם"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00041_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00041_gray.png"
+        ,
+          "orange": "poi_00041_orange.png"
+        ,
+          "bubble": "poi_00041_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120163,
+      "name": {
+        "en": "Taxi Station",
+        "he": "תחנת מוניות"
+      },
+      "category_id": "900900000130009",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Taxi Station"
+          ,
+            "he": "תחנת מוניות"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00042_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00042_gray.png"
+        ,
+          "orange": "poi_00042_orange.png"
+        ,
+          "bubble": "poi_00042_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120164,
+      "name": {
+        "en": "Train Station",
+        "he": "תחנת רכבת"
+      },
+      "category_id": "900900000130009",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Train Station"
+          ,
+            "he": "תחנת רכבת"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00043_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00043_gray.png"
+        ,
+          "orange": "poi_00043_orange.png"
+        ,
+          "bubble": "poi_00043_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120182,
+      "name": {
+        "en": "ATM",
+        "he": "כספומט"
+      },
+      "category_id": "900900000130010",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is An ATM"
+          ,
+            "he": "כספומט"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00044_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00044_gray.png"
+        ,
+          "orange": "poi_00044_orange.png"
+        ,
+          "bubble": "poi_00044_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120183,
+      "name": {
+        "en": "Camping Store",
+        "he": "חנות ציוד למטיילים"
+      },
+      "category_id": "900900000130010",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Camping Store"
+          ,
+            "he": "חנות ציוד למטיילים"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00045_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00045_gray.png"
+        ,
+          "orange": "poi_00045_orange.png"
+        ,
+          "bubble": "poi_00045_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120184,
+      "name": {
+        "en": "Medical Services",
+        "he": "שירותי רפואה"
+      },
+      "category_id": "900900000130010",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "are Medical Services"
+          ,
+            "he": "שירותי רפואה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00046_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00046_gray.png"
+        ,
+          "orange": "poi_00046_orange.png"
+        ,
+          "bubble": "poi_00046_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120185,
+      "name": {
+        "en": "Police",
+        "he": "משטרה"
+      },
+      "category_id": "900900000130010",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "are Police"
+          ,
+            "he": "משטרה"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00047_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00047_gray.png"
+        ,
+          "orange": "poi_00047_orange.png"
+        ,
+          "bubble": "poi_00047_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120186,
+      "name": {
+        "en": "Tourist Information",
+        "he": "מידע לתייר"
+      },
+      "category_id": "900900000130010",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is Tourist Information"
+          ,
+            "he": "מידע לתייר"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00048_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00048_gray.png"
+        ,
+          "orange": "poi_00048_orange.png"
+        ,
+          "bubble": "poi_00048_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120201,
+      "name": {
+        "en": "Shopping Mall",
+        "he": "קניון"
+      },
+      "category_id": "900900000130011",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Shopping Mall"
+          ,
+            "he": "קניון"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00049_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00049_gray.png"
+        ,
+          "orange": "poi_00049_orange.png"
+        ,
+          "bubble": "poi_00049_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120202,
+      "name": {
+        "en": "Cinema",
+        "he": "קולנוע"
+      },
+      "category_id": "900900000130011",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Cinema"
+          ,
+            "he": "קולנוע"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00050_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00050_gray.png"
+        ,
+          "orange": "poi_00050_orange.png"
+        ,
+          "bubble": "poi_00050_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120203,
+      "name": {
+        "en": "Theater",
+        "he": "תיאטרון"
+      },
+      "category_id": "900900000130011",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Theater"
+          ,
+            "he": "תיאטרון"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00051_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00051_gray.png"
+        ,
+          "orange": "poi_00051_orange.png"
+        ,
+          "bubble": "poi_00051_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120204,
+      "name": {
+        "en": "Zoo",
+        "he": "גן חיות"
+      },
+      "category_id": "900900000130011",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Zoo"
+          ,
+            "he": "גן חיות"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00052_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00052_gray.png"
+        ,
+          "orange": "poi_00052_orange.png"
+        ,
+          "bubble": "poi_00052_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120221,
+      "name": {
+        "en": "Boardwalk",
+        "he": "טיילת"
+      },
+      "category_id": "900900000130012",
+      "phrase_forms": [
+        {
+          "navigate_advance_notice_article": {
+            "en": "is A Boardwalk"
+          ,
+            "he": "טיילת"
+          }
+        }
+      ],
+      "icon": {
+        "web": {
+          "webfont": "00053_web_bubble"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00053_gray.png"
+        ,
+          "orange": "poi_00053_orange.png"
+        ,
+          "bubble": "poi_00053_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000120126,
+      "name": {
+        "en": "free text",
+        "he": "טקסט חופשי"
+      },
+      "category_id": "900900000130013",
+      "icon": {
+        "web": {
+          "webfont": "00054_web_bubble"
+        }
+      ,
+        "app_common": {
+          "bubble": "poi_00054_bubble.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ]
+,
+  "poi_categories": [
+    {
+      "id": "900900000130001",
+      "name": {
+        "en": "Water",
+        "he": "מים"
+      },
+      "pois":[900900000120001, 900900000120002, 900900000120003, 900900000120004, 900900000120005, 900900000120006]
+    }
+  ,
+    {
+      "id": "900900000130002",
+      "name": {
+        "en": "Challenge",
+        "he": "אתגר"
+      },
+      "pois":[900900000120021, 900900000120022, 900900000120023, 900900000120024, 900900000120025]
+    }
+  ,
+    {
+      "id": "900900000130003",
+      "name": {
+        "en": "Junction",
+        "he": "צומת"
+      },
+      "pois":[900900000120041, 900900000120042, 900900000120043, 900900000120044]
+    }
+  ,
+    {
+      "id": "900900000130004",
+      "name": {
+        "en": "Facilities",
+        "he": "מתקנים"
+      },
+      "pois":[900900000120061, 900900000120062, 900900000120063, 900900000120064, 900900000120065, 900900000120066, 900900000120067]
+    }
+  ,
+    {
+      "id": "900900000130005",
+      "name": {
+        "en": "Historic or Religious Site",
+        "he": "אתר היסטורי או דתי"
+      },
+      "pois":[900900000120081, 900900000120082, 900900000120083]
+    }
+  ,
+    {
+      "id": "900900000130006",
+      "name": {
+        "en": "Lodging & Camping",
+        "he": "לינה ומחנאות"
+      },
+      "pois":[900900000120107, 900900000120101, 900900000120102, 900900000120103, 900900000120104, 900900000120105, 900900000120106, 900900000120108, 900900000120109]
+    }
+  ,
+    {
+      "id": "900900000130007",
+      "name": {
+        "en": "Worth a Break",
+        "he": "שווה עצירה"
+      },
+      "pois":[900900000120121, 900900000120122, 900900000120123, 900900000120124, 900900000120125]
+    }
+  ,
+    {
+      "id": "900900000130008",
+      "name": {
+        "en": "Food",
+        "he": "אוכל"
+      },
+      "pois":[900900000120141, 900900000120142, 900900000120143, 900900000120144, 900900000120145, 900900000120146, 900900000120147]
+    }
+  ,
+    {
+      "id": "900900000130009",
+      "name": {
+        "en": "Transportation",
+        "he": "תחבורה"
+      },
+      "pois":[900900000120161, 900900000120162, 900900000120163, 900900000120164]
+    }
+  ,
+    {
+      "id": "900900000130010",
+      "name": {
+        "en": "Travel Services",
+        "he": "שירותים למטייל"
+      },
+      "pois":[900900000120182, 900900000120183, 900900000120184, 900900000120185, 900900000120186]
+    }
+  ,
+    {
+      "id": "900900000130011",
+      "name": {
+        "en": "Entertainment Centers",
+        "he": "מרכזי בידור"
+      },
+      "pois":[900900000120201, 900900000120202, 900900000120203, 900900000120204]
+    }
+  ,
+    {
+      "id": "900900000130012",
+      "name": {
+        "en": "Boardwalk",
+        "he": "טיילת"
+      },
+      "pois":[900900000120221]
+    }
+  ]
+,
+  "tag_info":[
+    {
+      "id": 900900000190001,
+      "name": {
+        "en": "Waterfall",
+        "he": "מפל"
+      },
+      "category_id": "900900000200001",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00001_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00001_gray.png"
+        ,
+          "orange": "poi_00001_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190002,
+      "name": {
+        "en": "Spring",
+        "he": "מעיין"
+      },
+      "category_id": "900900000200001",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00002_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00002_gray.png"
+        ,
+          "orange": "poi_00002_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190003,
+      "name": {
+        "en": "Pool",
+        "he": "בריכה"
+      },
+      "category_id": "900900000200001",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00003_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00003_gray.png"
+        ,
+          "orange": "poi_00003_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190043,
+      "name": {
+        "en": "Stream",
+        "he": "נחל"
+      },
+      "category_id": "900900000200001",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00002_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00002_gray.png"
+        ,
+          "orange": "poi_00002_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190004,
+      "name": {
+        "en": "Rappelling",
+        "he": "סנפלינג"
+      },
+      "category_id": "900900000200002",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00007_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00007_gray.png"
+        ,
+          "orange": "poi_00007_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190005,
+      "name": {
+        "en": "Picnic",
+        "he": "פיקניק"
+      },
+      "category_id": "900900000200003",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00014_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00014_gray.png"
+        ,
+          "orange": "poi_00014_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190007,
+      "name": {
+        "en": "Drinking Water",
+        "he": "מי שתיה"
+      },
+      "category_id": "900900000200003",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00015_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00015_gray.png"
+        ,
+          "orange": "poi_00015_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190008,
+      "name": {
+        "en": "Playground",
+        "he": "מתקני שעשועים"
+      },
+      "category_id": "900900000200003",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00016_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00016_gray.png"
+        ,
+          "orange": "poi_00016_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190010,
+      "name": {
+        "en": "Restrooms",
+        "he": "שירותים"
+      },
+      "category_id": "900900000200003",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00018_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00018_gray.png"
+        ,
+          "orange": "poi_00018_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190011,
+      "name": {
+        "en": "Recycle Bin",
+        "he": "מתקן מיחזור"
+      },
+      "category_id": "900900000200003",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00019_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00019_gray.png"
+        ,
+          "orange": "poi_00019_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190036,
+      "name": {
+        "en": "Memories Store",
+        "he": "חנות מזכרות"
+      },
+      "category_id": "900900000200003",
+      "relevance": "Site",
+      "icon": {
+        "web": {
+          "webfont": "00045_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00045_gray.png"
+        ,
+          "orange": "poi_00045_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190037,
+      "name": {
+        "en": "Showers",
+        "he": "מקלחות"
+      },
+      "category_id": "900900000200003",
+      "relevance": "Site",
+      "icon": {
+        "web": {
+          "webfont": "00055_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00055_gray.png"
+        ,
+          "orange": "poi_00055_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190038,
+      "name": {
+        "en": "Air Conditioner",
+        "he": "מיזוג אוויר"
+      },
+      "category_id": "900900000200003",
+      "relevance": "Site",
+      "icon": {
+        "web": {
+          "webfont": "00056_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00056_gray.png"
+        ,
+          "orange": "poi_00056_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190039,
+      "name": {
+        "en": "Kitchen",
+        "he": "מטבחון"
+      },
+      "category_id": "900900000200003",
+      "relevance": "Site",
+      "icon": {
+        "web": {
+          "webfont": "00057_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00057_gray.png"
+        ,
+          "orange": "poi_00057_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190040,
+      "name": {
+        "en": "Meals",
+        "he": "ארוחות"
+      },
+      "category_id": "900900000200003",
+      "relevance": "Site",
+      "icon": {
+        "web": {
+          "webfont": "00058_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00058_gray.png"
+        ,
+          "orange": "poi_00058_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190012,
+      "name": {
+        "en": "Archaeological Site",
+        "he": "אתר ארכיאולוגי"
+      },
+      "category_id": "900900000200004",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00021_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00021_gray.png"
+        ,
+          "orange": "poi_00021_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190013,
+      "name": {
+        "en": "Heritage Site",
+        "he": "אתר מורשת"
+      },
+      "category_id": "900900000200004",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00021_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00021_gray.png"
+        ,
+          "orange": "poi_00021_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190014,
+      "name": {
+        "en": "Holy Site",
+        "he": "אתר קדוש"
+      },
+      "category_id": "900900000200004",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00022_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00022_gray.png"
+        ,
+          "orange": "poi_00022_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190015,
+      "name": {
+        "en": "Camping",
+        "he": "קמפינג"
+      },
+      "category_id": "900900000200005",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00023_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00023_gray.png"
+        ,
+          "orange": "poi_00023_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190044,
+      "name": {
+        "en": "Lodging",
+        "he": "לינה"
+      },
+      "category_id": "900900000200005",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00027_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00027_gray.png"
+        ,
+          "orange": "poi_00027_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190019,
+      "name": {
+        "en": "Observation Point",
+        "he": "נקודת תצפית"
+      },
+      "category_id": "900900000200006",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00028_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00028_gray.png"
+        ,
+          "orange": "poi_00028_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190020,
+      "name": {
+        "en": "Bird Lookout",
+        "he": "מצפור"
+      },
+      "category_id": "900900000200006",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00032_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00032_gray.png"
+        ,
+          "orange": "poi_00032_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190021,
+      "name": {
+        "en": "Public Transporation at Trek Start",
+        "he": "תחבורה ציבורית לתחילת המסלול"
+      },
+      "category_id": "900900000200007",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00040_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00040_gray.png"
+        ,
+          "orange": "poi_00040_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190022,
+      "name": {
+        "en": "Public Transportation at Trek End",
+        "he": "תחבורה ציבורית ביציאה מהמסלול"
+      },
+      "category_id": "900900000200007",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00040_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00040_gray.png"
+        ,
+          "orange": "poi_00040_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190045,
+      "name": {
+        "en": "Public Transportation to the Site",
+        "he": "תחבורה ציבורית אל האתר"
+      },
+      "category_id": "900900000200007",
+      "relevance": "Site",
+      "icon": {
+        "web": {
+          "webfont": "00040_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00040_gray.png"
+        ,
+          "orange": "poi_00040_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190023,
+      "name": {
+        "en": "Parking",
+        "he": "חניה "
+      },
+      "category_id": "900900000200007",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00041_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00041_gray.png"
+        ,
+          "orange": "poi_00041_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190025,
+      "name": {
+        "en": "Medical Services",
+        "he": "שירותי רפואה"
+      },
+      "category_id": "900900000200008",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00046_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00046_gray.png"
+        ,
+          "orange": "poi_00046_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190024,
+      "name": {
+        "en": "Tourist Information",
+        "he": "מידע לתייר"
+      },
+      "category_id": "900900000200008",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00048_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00048_gray.png"
+        ,
+          "orange": "poi_00048_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190026,
+      "name": {
+        "en": "Spring",
+        "he": "אביב"
+      },
+      "category_id": "900900000200009",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00059_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00059_gray.png"
+        ,
+          "orange": "poi_00059_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190027,
+      "name": {
+        "en": "Summer",
+        "he": "קיץ"
+      },
+      "category_id": "900900000200009",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00060_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00060_gray.png"
+        ,
+          "orange": "poi_00060_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190029,
+      "name": {
+        "en": "Autumn",
+        "he": "סתיו"
+      },
+      "category_id": "900900000200009",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00061_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00061_gray.png"
+        ,
+          "orange": "poi_00061_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190030,
+      "name": {
+        "en": "Winter",
+        "he": "חורף"
+      },
+      "category_id": "900900000200009",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00062_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00062_gray.png"
+        ,
+          "orange": "poi_00062_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190031,
+      "name": {
+        "en": "Disability Friendly",
+        "he": "נגישות לנכים"
+      },
+      "category_id": "900900000200010",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00063_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00063_gray.png"
+        ,
+          "orange": "poi_00063_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190032,
+      "name": {
+        "en": "Not Disability Friendly",
+        "he": "אין נגישות לנכים"
+      },
+      "category_id": "900900000200010",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00064_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00064_gray.png"
+        ,
+          "orange": "poi_00064_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190033,
+      "name": {
+        "en": "Pet Friendly",
+        "he": "יש כניסה לחיות מחמד"
+      },
+      "category_id": "900900000200011",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00065_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00065_gray.png"
+        ,
+          "orange": "poi_00065_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190034,
+      "name": {
+        "en": "Not Pet Friendly",
+        "he": "אין כניסה לחיות מחמד"
+      },
+      "category_id": "900900000200011",
+      "relevance": "",
+      "icon": {
+        "web": {
+          "webfont": "00066_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00066_gray.png"
+        ,
+          "orange": "poi_00066_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190041,
+      "name": {
+        "en": "Circular Trek",
+        "he": "מסלול מעגלי"
+      },
+      "category_id": "900900000200012",
+      "relevance": "trek",
+      "icon": {
+        "web": {
+          "webfont": "00067_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00067_gray.png"
+        ,
+          "orange": "poi_00067_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ,
+    {
+      "id": 900900000190042,
+      "name": {
+        "en": "One-Way Trek",
+        "he": "מסלול חד כיווני"
+      },
+      "category_id": "900900000200012",
+      "relevance": "trek",
+      "icon": {
+        "web": {
+          "webfont": "00068_WEB"
+        }
+      ,
+        "app_common": {
+          "gray": "poi_00068_gray.png"
+        ,
+          "orange": "poi_00068_orange.png"
+        },
+        "android": {
+        },
+        "ios": {
+        }
+      }
+    }
+  ]
+,
+  "tag_categories": [
+    {
+      "id": "900900000200001",
+      "name": {
+        "en": "Water",
+        "he": "מים"
+      },
+      "tags":[900900000190001, 900900000190002, 900900000190003, 900900000190043]
+    }
+  ,
+    {
+      "id": "900900000200002",
+      "name": {
+        "en": "Challenge",
+        "he": "אתגר"
+      },
+      "tags":[900900000190004]
+    }
+  ,
+    {
+      "id": "900900000200003",
+      "name": {
+        "en": "Facilities",
+        "he": "מתקנים"
+      },
+      "tags":[900900000190005, 900900000190007, 900900000190008, 900900000190010, 900900000190011, 900900000190036, 900900000190037, 900900000190038, 900900000190039, 900900000190040]
+    }
+  ,
+    {
+      "id": "900900000200004",
+      "name": {
+        "en": "Historic or Religious Site",
+        "he": "אתר היסטורי או דתי"
+      },
+      "tags":[900900000190012, 900900000190013, 900900000190014]
+    }
+  ,
+    {
+      "id": "900900000200005",
+      "name": {
+        "en": "Lodging & Camping",
+        "he": "לינה ומחנאות"
+      },
+      "tags":[900900000190015, 900900000190044]
+    }
+  ,
+    {
+      "id": "900900000200006",
+      "name": {
+        "en": "Worth a Break",
+        "he": "שווה עצירה"
+      },
+      "tags":[900900000190019, 900900000190020]
+    }
+  ,
+    {
+      "id": "900900000200007",
+      "name": {
+        "en": "Transportation",
+        "he": "תחבורה"
+      },
+      "tags":[900900000190021, 900900000190022, 900900000190045, 900900000190023]
+    }
+  ,
+    {
+      "id": "900900000200008",
+      "name": {
+        "en": "Travel Services",
+        "he": "שירותים למטייל"
+      },
+      "tags":[900900000190025, 900900000190024]
+    }
+  ,
+    {
+      "id": "900900000200009",
+      "name": {
+        "en": "Recommended Season",
+        "he": "עונה מומלצת"
+      },
+      "tags":[900900000190026, 900900000190027, 900900000190029, 900900000190030]
+    }
+  ,
+    {
+      "id": "900900000200010",
+      "name": {
+        "en": "Accessibility",
+        "he": "נגישות"
+      },
+      "tags":[900900000190031, 900900000190032]
+    }
+  ,
+    {
+      "id": "900900000200011",
+      "name": {
+        "en": "Pet Accessibility",
+        "he": "נגישות לבעלי חיים"
+      },
+      "tags":[900900000190033, 900900000190034]
+    }
+  ,
+    {
+      "id": "900900000200012",
+      "name": {
+        "en": "General Information",
+        "he": "מידע כללי"
+      },
+      "tags":[900900000190041, 900900000190042]
+    }
+  ]
+}
