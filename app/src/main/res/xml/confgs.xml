@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
     <map linked="true">
+        <entry key="LvDiffLayout">adiel.rectrain.listviews.LvDiffLayout</entry>
+        <entry key="AutoCompleteSearchEx">adiel.rectrain.toolbar.AutoCompleteSearchEx</entry>
         <entry key="SearchViewWebExample">adiel.rectrain.toolbar.SearchViewWebExample</entry>
         <entry key="ToolBarActivity">adiel.rectrain.toolbar.ToolBarActivity</entry>
         <entry key="SysConfgsAct">adiel.rectrain.sysconfgs.SysConfgsAct</entry>

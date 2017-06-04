@@ -3,7 +3,9 @@ package adiel.rectrain.toolbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.SearchView;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.Menu;
 import android.view.View;
 import android.widget.ListView;
 
@@ -19,24 +21,19 @@ public class SearchViewWebExample extends AppCompatActivity {
     ArrayList<String> arrayList;
     int counter=0;
 
+    public Toolbar toolBar;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_search_view_web_example);
+        toolBar= (Toolbar) findViewById(R.id.toolBar);
+        setSupportActionBar(toolBar);
         lv = (ListView) findViewById(R.id.lv);
         searchView = (SearchView) findViewById(R.id.search);
 
 
         arrayList = new ArrayList<>();
-//        arrayList.add("April");
-//        arrayList.add("May");
-//        arrayList.add("June");
-//        arrayList.add("July");
-//        arrayList.add("August");
-//        arrayList.add("September");
-//        arrayList.add("October");
-//        arrayList.add("November");
-//        arrayList.add("December");
 
         adapter= new ListAdapter(arrayList);
         lv.setAdapter(adapter);
@@ -65,6 +62,12 @@ public class SearchViewWebExample extends AppCompatActivity {
         });
     }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.auto_complete_web, menu);
+        return true;
+    }
+
     public void addRow(View view) {
         arrayList.add(""+counter);
         adapter.notifyDataSetChanged();
@@ -73,6 +76,13 @@ public class SearchViewWebExample extends AppCompatActivity {
     public void removeRow(View view) {
         arrayList.remove(0);
         adapter.notifyDataSetChanged();
+
+    }
+
+    public void closeSearch(View view) {
+        arrayList.clear();
+        adapter.notifyDataSetChanged();
+        searchView.setIconified(true);
 
     }
 }

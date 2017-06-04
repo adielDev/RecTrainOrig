@@ -5,7 +5,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import adiel.rectrain.R;
 
@@ -53,6 +55,14 @@ class yourAdapter extends BaseAdapter {
         vi.setTag("tag num:"+position);
         TextView text = (TextView) vi.findViewById(R.id.text);
         text.setText(data[position]);
+        Button clickMe = (Button) vi.findViewById(R.id.clickMe);
+        clickMe.setTag(position);
+        clickMe.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(context, "onClick:"+v.getTag(), Toast.LENGTH_SHORT).show();
+            }
+        });
         return vi;
     }
 }

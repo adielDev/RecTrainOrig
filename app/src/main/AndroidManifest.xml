@@ -62,8 +62,13 @@
         <activity
             android:name=".toolbar.ToolBarActivity"
             android:theme="@style/AutoCompleteTheme" />
-        <activity android:name=".toolbar.SearchViewWebExample"
-            android:theme="@style/AutoCompleteTheme"></activity>
+        <activity
+            android:name=".toolbar.SearchViewWebExample"
+            android:theme="@style/AutoCompleteTheme" />
+        <activity
+            android:name=".toolbar.AutoCompleteSearchEx"
+            android:theme="@style/AutoCompleteTheme" />
+        <activity android:name=".listviews.LvDiffLayout"></activity>
     </application>
 
 </manifest>

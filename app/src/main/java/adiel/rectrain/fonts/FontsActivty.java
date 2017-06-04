@@ -60,6 +60,7 @@ public class FontsActivty extends AppCompatActivity {
         TextView customFontHeb = (TextView) findViewById(R.id.customFontHeb);
 
         Typeface typeface = Typeface.createFromAsset(getAssets(),"Alef-Bold.ttf");
+       // Typeface typeface = Typeface.createFromAsset(getAssets(),"Rubik-Light.ttf");
 
         customFont.setTypeface(typeface);
         customFontHeb.setTypeface(typeface);
