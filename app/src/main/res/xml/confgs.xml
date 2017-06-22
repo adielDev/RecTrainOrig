@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <map linked="true">
-        <entry key="LvDiffLayout">adiel.rectrain.listviews.LvDiffLayout</entry>
-        <entry key="AutoCompleteSearchEx">adiel.rectrain.toolbar.AutoCompleteSearchEx</entry>
-        <entry key="SearchViewWebExample">adiel.rectrain.toolbar.SearchViewWebExample</entry>
-        <entry key="ToolBarActivity">adiel.rectrain.toolbar.ToolBarActivity</entry>
-        <entry key="SysConfgsAct">adiel.rectrain.sysconfgs.SysConfgsAct</entry>
-        <entry key="SmsReceiverACT">adiel.rectrain.receievers.SmsReceiverACT</entry>
-        <entry key="ListViewActivity">adiel.rectrain.listviews.ListViewActivity</entry>
-        <entry key="FilesActivity">adiel.rectrain.files.FilesActivity</entry>
-        <entry key="ActionModeEx">adiel.rectrain.action_mode.ActionModeEx</entry>
-        <entry key="CustomAlertDialog">adiel.rectrain.dialogs.CustomAlertDialog</entry>
-        <entry key="FontsActivty">adiel.rectrain.fonts.FontsActivty</entry>
-        <entry key="LifeCycleActivity">adiel.rectrain.lifecycle.LifeCycleActivity</entry>
-        <entry key="ServiceExampleOne">adiel.rectrain.services.ServiceExampleOne</entry>
-        <entry key="TimerActivity">adiel.rectrain.notcategorize.TimerActivity</entry>
-        <entry key="ShapeActivity">adiel.rectrain.shapes.ShapeActivity</entry>
-        <entry key="AnnotationActivity">adiel.rectrain.annotations.AnnotationActivity</entry>
-        <entry key="ParseTextActivity">adiel.rectrain.ui.ParseTextActivity</entry>
-        <entry key="ActivityA">adiel.rectrain.activities.ActivityA</entry>
-        <entry key="ProguardExAct">adiel.rectrain.proguardex.ProguardExAct</entry>
-        <entry key="CoachMarksActivity">adiel.rectrain.coachmarks.CoachMarksActivity</entry>
-        <entry key="PopupWindowAct">adiel.rectrain.dialogs.PopupWindowAct</entry>
-    </map>
+<map linked="true">
+    <entry key="ConstrainLayoutEX">adiel.rectrain.design.ConstrainLayoutEX</entry>
+    <entry key="ListViewActivity">adiel.rectrain.listviews.ListViewActivity</entry>
+    <entry key="DesignActivity">adiel.rectrain.design.DesignActivity</entry>
+    <entry key="NIceAnimAct">adiel.rectrain.animations.NIceAnimAct</entry>
+    <entry key="DimensionActivity">adiel.rectrain.viewpager.PagerExample</entry>
+    <entry key="DimensionActivity">adiel.rectrain.dimension.DimensionActivity</entry>
+    <entry key="LvDiffLayout">adiel.rectrain.listviews.LvDiffLayout</entry>
+    <entry key="AutoCompleteSearchEx">adiel.rectrain.toolbar.AutoCompleteSearchEx</entry>
+    <entry key="SearchViewWebExample">adiel.rectrain.toolbar.SearchViewWebExample</entry>
+    <entry key="ToolBarActivity">adiel.rectrain.toolbar.ToolBarActivity</entry>
+    <entry key="SysConfgsAct">adiel.rectrain.sysconfgs.SysConfgsAct</entry>
+    <entry key="SmsReceiverACT">adiel.rectrain.receievers.SmsReceiverACT</entry>
+    <entry key="FilesActivity">adiel.rectrain.files.FilesActivity</entry>
+    <entry key="ActionModeEx">adiel.rectrain.action_mode.ActionModeEx</entry>
+    <entry key="CustomAlertDialog">adiel.rectrain.dialogs.CustomAlertDialog</entry>
+    <entry key="FontsActivty">adiel.rectrain.fonts.FontsActivty</entry>
+    <entry key="LifeCycleActivity">adiel.rectrain.lifecycle.LifeCycleActivity</entry>
+    <entry key="ServiceExampleOne">adiel.rectrain.services.ServiceExampleOne</entry>
+    <entry key="TimerActivity">adiel.rectrain.notcategorize.TimerActivity</entry>
+    <entry key="ShapeActivity">adiel.rectrain.shapes.ShapeActivity</entry>
+    <entry key="AnnotationActivity">adiel.rectrain.annotations.AnnotationActivity</entry>
+    <entry key="ParseTextActivity">adiel.rectrain.ui.ParseTextActivity</entry>
+    <entry key="ActivityA">adiel.rectrain.activities.ActivityA</entry>
+    <entry key="ProguardExAct">adiel.rectrain.proguardex.ProguardExAct</entry>
+    <entry key="CoachMarksActivity">adiel.rectrain.coachmarks.CoachMarksActivity</entry>
+    <entry key="PopupWindowAct">adiel.rectrain.dialogs.PopupWindowAct</entry>
+</map>

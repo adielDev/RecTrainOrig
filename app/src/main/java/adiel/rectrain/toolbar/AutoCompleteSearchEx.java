@@ -2,6 +2,7 @@ package adiel.rectrain.toolbar;
 
 import android.content.Context;
 import android.graphics.Point;
+import android.graphics.Rect;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,9 +11,12 @@ import android.support.v7.widget.Toolbar;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.ViewTreeObserver;
+import android.view.Window;
 import android.view.WindowManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -22,9 +26,12 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
+import java.util.zip.Inflater;
 
 import adiel.rectrain.R;
 import adiel.rectrain.listviews.ComplexArrayAdapter;
+
+import static adiel.rectrain.R.id.root;
 
 public class AutoCompleteSearchEx extends AppCompatActivity  {
 
@@ -85,6 +92,26 @@ public class AutoCompleteSearchEx extends AppCompatActivity  {
 
             }
         });
+
+        LayoutInflater layoutInflater = getLayoutInflater();
+        final View root= layoutInflater.inflate(R.layout.activity_auto_complete_search_ex, null);
+        final View rootView = getWindow().getDecorView().getRootView();
+        final Window mRootWindow = getWindow();
+        View mRootView = mRootWindow.getDecorView().findViewById(android.R.id.content);
+        mRootView.getViewTreeObserver().addOnGlobalLayoutListener(
+                new ViewTreeObserver.OnGlobalLayoutListener() {
+                    public void onGlobalLayout(){
+                        Rect r = new Rect();
+                        View view = mRootWindow.getDecorView();
+                        view.getWindowVisibleDisplayFrame(r);
+                        Log.d("adiel","left "+r.left);
+                        Log.d("adiel","top "+ r.top);
+                        Log.d("adiel","right "+ r.right);
+                        Log.d("adiel","bottom "+ r.bottom);
+                        Log.d("adiel","*************************");
+                        // r.left, r.top, r.right, r.bottom
+                    }
+                });
 
     }
 

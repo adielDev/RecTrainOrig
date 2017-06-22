@@ -68,7 +68,12 @@
         <activity
             android:name=".toolbar.AutoCompleteSearchEx"
             android:theme="@style/AutoCompleteTheme" />
-        <activity android:name=".listviews.LvDiffLayout"></activity>
+        <activity android:name=".listviews.LvDiffLayout" />
+        <activity android:name=".dimension.DimensionActivity" />
+        <activity android:name=".viewpager.PagerExample" />
+        <activity android:name=".animations.NIceAnimAct" />
+        <activity android:name=".design.DesignActivity" />
+        <activity android:name=".design.ConstrainLayoutEX"></activity>
     </application>
 
 </manifest>

@@ -11,5 +11,13 @@ public class ParseTextActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_parse_text);
+
+        for (int i = 0; i < 10; i++) {
+
+        }
+
+        for (int i = 0; i < 10; i++) {
+
+            }
     }
 }

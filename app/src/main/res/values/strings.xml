@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mainlist">
+        <item>ConstrainLayoutEX</item>
+        <item>ListViewActivity</item>
+        <item>DesignActivity</item>
+        <item>NIceAnimAct</item>
+        <item>PagerExample</item>
+        <item>DimensionActivity</item>
         <item>LvDiffLayout</item>
         <item>AutoCompleteSearchEx</item>
         <item>SearchViewWebExample</item>
         <item>ToolBarActivity</item>
         <item>SysConfgsAct</item>
         <item>SmsReceiverACT</item>
-        <item>ListViewActivity</item>
         <item>PopupWindowAct</item>
         <item>CoachMarksActivity</item>
         <item>FilesActivity</item>
