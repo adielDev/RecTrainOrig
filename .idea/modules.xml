@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RecTrain.iml" filepath="$PROJECT_DIR$/RecTrain.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkgradle/checkgradle.iml" filepath="$PROJECT_DIR$/checkgradle/checkgradle.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulegitcheck/modulegitcheck.iml" filepath="$PROJECT_DIR$/modulegitcheck/modulegitcheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/moregitcheck/moregitcheck.iml" filepath="$PROJECT_DIR$/moregitcheck/moregitcheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/osmlib/osmlib.iml" filepath="$PROJECT_DIR$/osmlib/osmlib.iml" />

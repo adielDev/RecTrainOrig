@@ -1,5 +1,9 @@
 apply plugin: 'com.android.library'
+apply plugin: 'maven'
 
+group = 'myGroup'
+// artifactId is taken by default, from folder name
+version = '1.0.0'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
@@ -19,6 +23,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+
 }
 
 dependencies {
@@ -28,4 +34,13 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.0.1'
     testCompile 'junit:junit:4.12'
+}
+
+task sayHello{
+    println 'ddddd'
+}
+
+task sayHello2 (type:Copy){
+    from '/home/recntrek7/Pictures'
+    into '/home/recntrek7/Pictures/checkCopy'
 }
