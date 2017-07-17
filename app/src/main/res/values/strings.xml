@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mainlist">
+        <item>ExceptionExapmleAct</item>
+        <item>NestedStateActivity</item>
+        <item>NestedScrollEx</item>
+        <item>LifeCycleActivity</item>
         <item>ConstrainLayoutEX</item>
         <item>ListViewActivity</item>
         <item>DesignActivity</item>
@@ -19,7 +23,6 @@
         <item>ActionModeEx</item>
         <item>CustomAlertDialog</item>IN
         <item>FontsActivty</item>
-        <item>LifeCycleActivity</item>
         <item>ServiceExampleOne</item>
         <item>TimerActivity</item>
         <item>ShapeActivity</item>

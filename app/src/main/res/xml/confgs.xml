@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <map linked="true">
+    <entry key="ExceptionExapmleAct">adiel.rectrain.exceptions.ExceptionExapmleAct</entry>
+    <entry key="NestedStateActivity">adiel.rectrain.lifecycle.NestedStateActivity</entry>
+    <entry key="NestedScrollEx">adiel.rectrain.nestedscroll.NestedScrollEx</entry>
     <entry key="ConstrainLayoutEX">adiel.rectrain.design.ConstrainLayoutEX</entry>
     <entry key="ListViewActivity">adiel.rectrain.listviews.ListViewActivity</entry>
     <entry key="DesignActivity">adiel.rectrain.design.DesignActivity</entry>
