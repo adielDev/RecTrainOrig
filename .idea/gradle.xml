@@ -11,8 +11,6 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/checkgradle" />
             <option value="$PROJECT_DIR$/modulegitcheck" />
-            <option value="$PROJECT_DIR$/moregitcheck" />
-            <option value="$PROJECT_DIR$/osmlib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
