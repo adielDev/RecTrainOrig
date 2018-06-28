@@ -9,7 +9,7 @@
     </style>
 
     <!-- Application theme. -->
-    <style name="AppTheme" parent="MyRealTheme">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
 
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
 

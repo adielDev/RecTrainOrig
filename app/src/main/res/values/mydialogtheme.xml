@@ -7,21 +7,6 @@
     <attr name="dialogActionButtonStyle" format="reference"/>
     <attr name="dialogProgressStyle" format="reference"/>
 
-    <style name="MyDialogTheme" parent="Theme.AppCompat">
-        <item name="dialogBackground">@style/DialogBackground</item>
-        <item name="dialogTitleStyle" >@style/DialogTitleStyle</item>
-        <item name="dialogMessageStyle" >@style/DialogMessageStyle</item>
-        <item name="dialogActionButtonStyle" >@style/DialogActionButtonStyle</item>
-        <!--<item name="dialogProgressStyle" >@style/DialogProgressStyle</item>-->
-        <!--!@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
-       <!-- <item name="android:actionOverflowButtonStyle">@style/WhiteOverFlow</item>
-        <item name="windowActionBar">false</item>
-        <item name="android:windowNoTitle">true</item>-->
-        <!--<item name="android:textColorHint">#645D61</item>
-        <item name="colorButtonNormal">@color/main_orange</item>
-        <item name="windowActionModeOverlay">true</item>-->
-    </style>
-
 
     <style name="DialogBackground">
         <item name="android:background">@color/background_black</item>
@@ -51,11 +36,11 @@
         <item name="colorButtonNormal">@color/main_orange</item>
     </style>
 
-    <style name="MyDialogStyle" parent="Theme.AppCompat.Dialog">
-        <item name="colorAccent">@color/main_orange</item>
+    <!--<style name="MyDialogStyle" parent="Theme.AppCompat.Dialog">-->
+        <!--<item name="colorAccent">@color/main_orange</item>-->
 
-        <item name="android:background">@color/main_black</item>
-    </style>
+        <!--<item name="android:background">@color/main_black</item>-->
+    <!--</style>-->
 
 </resources>
     <!-- <item name="visualExplanation">@drawable/dialogconsept</item>-->

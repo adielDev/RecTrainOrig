@@ -74,12 +74,12 @@ public class CustomAlertDialog extends AppCompatActivity {
     }
 
     public void showSimplestDialog(View view) {
-        AlertDialog.Builder builder = new AlertDialog.Builder(this,R.style.MyDialogStyle);
-        AlertDialog alertDialog = builder.setTitle("title")
-
-                .setMessage("message ")
-                .create();
-        alertDialog.show();
+//        AlertDialog.Builder builder = new AlertDialog.Builder(this,R.style.MyDialogStyle);
+//        AlertDialog alertDialog = builder.setTitle("title")
+//
+//                .setMessage("message ")
+//                .create();
+//        alertDialog.show();
     }
 
 }

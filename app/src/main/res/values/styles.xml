@@ -21,28 +21,7 @@
 
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="MyRealTheme">
-        <!--<item name="android:background">@drawable/mybackground</item>-->
-        <!--<item name="android:selectable">@drawable/mybackground</item>-->
-        <item name="colorPrimary">@color/background_orange</item>
-        <!-- Customize your theme here. -->
-       <!-- <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="spinnerStyle">@style/Widget.AppCompat.Spinner</item>
-        <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
-        <item name="dialogTheme">@style/Theme.AppCompat.Dialog</item>
-        <item name="dialogPreferredPadding">@dimen/abc_dialog_padding_material</item>
 
-        <item name="alertDialogTheme">@style/Theme.AppCompat.Dialog.Alert</item>
-        <item name="alertDialogStyle">@style/AlertDialog.AppCompat</item>
-        <item name="alertDialogCenterButtons">false</item>
-        <item name="textColorAlertDialogListItem">@color/main_orange</item>
-        <item name="listDividerAlertDialog">@null</item>-->
-     <!--   <item name="alertDialogStyle">@style/MyAlertDialogStyle</item>
-        <item name="alertDialogTheme">@style/MyAlertDialogTheme</item>-->
-
-    </style>
 
     <style name="MyAlertDialogTheme" parent="Theme.AppCompat.Dialog.Alert">
 
@@ -85,7 +64,7 @@
         <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
         <item name="selectableItemBackgroundBorderless">?attr/selectableItemBackground</item>
         <item name="borderlessButtonStyle">@style/Widget.AppCompat.Button.Borderless</item>
-        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+
 
         <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
         <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
@@ -114,7 +93,7 @@
         <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
         <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
-        <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+
         <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
 
         <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
@@ -228,7 +207,9 @@
 
     <style name="Theme.MyDialogTheme.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert" />
 
+<!--
     <style name="MyNiceTheme" parent="Theme.AppCompat.Dialog.Alert" />
+-->
 
     <style name="my_lv_style"></style>
 
