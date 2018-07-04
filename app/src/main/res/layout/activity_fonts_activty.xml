@@ -12,9 +12,16 @@
     tools:context="adiel.rectrain.fonts.FontsActivty">
 
     <TextView
+        android:textSize="22dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/heebo_thin"
+        android:text="@string/doen_fonts" />
+    <TextView
         android:id="@+id/tv1"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+         />
 
     <TextView
         android:text="hello world my text size is :"

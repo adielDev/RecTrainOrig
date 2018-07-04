@@ -81,7 +81,34 @@
         <activity
             android:name=".listviews.FixSizeList"
             android:exported="true" />
-        <activity android:name=".constrainlayout.ConstrainLayoutAct"></activity>
+        <activity android:name=".constrainlayout.ConstrainLayoutAct" />
+        <activity android:name=".ui.UiActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".links.LinkActivity"
+            android:theme="@android:style/Theme.Translucent">
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:host="aaa" />
+                <data android:scheme="http" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".links.LinkReceiver"
+            android:enabled="true"
+            android:exported="true">
+
+
+        </receiver>
     </application>
 
 </manifest>

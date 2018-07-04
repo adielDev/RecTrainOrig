@@ -2,6 +2,7 @@ package adiel.rectrain;
 
 import org.junit.Test;
 
+import static junit.framework.Assert.assertEquals;
 import static org.junit.Assert.*;
 
 /**
@@ -17,6 +18,13 @@ public class ExampleUnitTest {
     @Test
     public void json_tests() throws Exception {
         System.out.println("hello test");
+
+    }
+
+    @Test
+    public void lambsaTest1 ()throws Exception {
+        System.out.println("hello test lambda");
+       // Runnable runnable = ()-> {};
 
     }
 
